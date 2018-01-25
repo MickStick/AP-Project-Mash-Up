@@ -1,0 +1,828 @@
+
+[ 2017/04/26 15:44:52 ] > Server Started.
+[ 2017/04/26 15:45:12 ] > Server Thread Initialized
+[ 2017/04/26 15:45:15 ] > Student Logged In
+[ 2017/04/26 15:45:16 ] > Server Thread Initialized
+[ 2017/04/26 15:45:16 ] > Previous Queries Sent So Student
+[ 2017/04/26 15:45:37 ] > Server Thread Initialized
+[ 2017/04/26 15:45:37 ] > Refund Sent From Student
+[ 2017/04/26 15:45:37 ] > Query Failed <<Session Expired>>
+[ 2017/04/26 15:46:12 ] > Server Thread Initialized
+[ 2017/04/26 15:46:12 ] > Previous Queries Sent So Student
+[ 2017/04/26 15:46:26 ] > Server Thread Initialized
+[ 2017/04/26 15:46:26 ] > Query Sent!
+[ 2017/04/26 15:46:31 ] > Server Thread Initialized
+[ 2017/04/26 15:46:31 ] > Previous Queries Sent So Student
+[ 2017/04/26 15:48:42 ] > Server Thread Initialized
+[ 2017/04/26 15:48:42 ] > Employee Sockets Generated
+[ 2017/04/26 15:48:42 ] > Employee Sockets Generated
+[ 2017/04/26 15:48:42 ] > Employee Sockets Generated
+[ 2017/04/26 15:48:42 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:48:43 ] > Server Thread Initialized
+[ 2017/04/26 15:48:43 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:51:00 ] > Server Thread Initialized
+[ 2017/04/26 15:51:00 ] > Employee Sockets Generated
+[ 2017/04/26 15:51:00 ] > Employee Sockets Generated
+[ 2017/04/26 15:51:00 ] > Employee Sockets Generated
+[ 2017/04/26 15:51:00 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:51:01 ] > Server Thread Initialized
+[ 2017/04/26 15:51:01 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:52:39 ] > Server Thread Initialized
+[ 2017/04/26 15:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 15:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 15:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 15:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 15:52:39 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:52:40 ] > Server Thread Initialized
+[ 2017/04/26 15:52:40 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:55:36 ] > Server Thread Initialized
+[ 2017/04/26 15:55:36 ] > Employee Sockets Generated
+[ 2017/04/26 15:55:36 ] > Employee Sockets Generated
+[ 2017/04/26 15:55:36 ] > Employee Sockets Generated
+[ 2017/04/26 15:55:36 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:55:36 ] > Server Thread Initialized
+[ 2017/04/26 15:55:36 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:56:47 ] > Server Thread Initialized
+[ 2017/04/26 15:56:47 ] > Employee Sockets Generated
+[ 2017/04/26 15:56:47 ] > Employee Sockets Generated
+[ 2017/04/26 15:56:47 ] > Employee Sockets Generated
+[ 2017/04/26 15:56:47 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:56:48 ] > Server Thread Initialized
+[ 2017/04/26 15:56:48 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:57:53 ] > Server Thread Initialized
+[ 2017/04/26 15:57:53 ] > Employee Sockets Generated
+[ 2017/04/26 15:57:53 ] > Employee Sockets Generated
+[ 2017/04/26 15:57:53 ] > Employee Sockets Generated
+[ 2017/04/26 15:57:53 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:57:53 ] > Server Thread Initialized
+[ 2017/04/26 15:57:53 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 15:59:20 ] > Server Thread Initialized
+[ 2017/04/26 15:59:20 ] > Employee Sockets Generated
+[ 2017/04/26 15:59:20 ] > Employee Sockets Generated
+[ 2017/04/26 15:59:20 ] > Employee Sockets Generated
+[ 2017/04/26 15:59:20 ] > Employee Successfullly Logged In
+[ 2017/04/26 15:59:21 ] > Server Thread Initialized
+[ 2017/04/26 15:59:21 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 16:00:09 ] > Server Thread Initialized
+[ 2017/04/26 16:00:09 ] > Employee Sockets Generated
+[ 2017/04/26 16:00:09 ] > Employee Sockets Generated
+[ 2017/04/26 16:00:09 ] > Employee Sockets Generated
+[ 2017/04/26 16:00:10 ] > Employee Successfullly Logged In
+[ 2017/04/26 16:00:10 ] > Server Thread Initialized
+[ 2017/04/26 16:00:10 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 16:00:17 ] > Server Thread Initialized
+[ 2017/04/26 16:00:17 ] > File Retrieved
+[ 2017/04/26 16:01:17 ] > Server Thread Initialized
+[ 2017/04/26 16:01:17 ] > File Retrieved
+[ 2017/04/26 16:13:21 ] > Server Thread Initialized
+[ 2017/04/26 16:13:21 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:23:59 ] > Server Started.
+[ 2017/04/26 17:26:28 ] > Server Thread Initialized
+[ 2017/04/26 17:26:30 ] > Employee Sockets Generated
+[ 2017/04/26 17:26:30 ] > Employee Sockets Generated
+[ 2017/04/26 17:26:30 ] > Employee Sockets Generated
+[ 2017/04/26 17:26:30 ] > Employee Successfullly Logged In
+[ 2017/04/26 17:26:31 ] > Server Thread Initialized
+[ 2017/04/26 17:26:31 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:33:55 ] > Server Started.
+[ 2017/04/26 17:34:14 ] > Server Thread Initialized
+[ 2017/04/26 17:34:16 ] > Employee Sockets Generated
+[ 2017/04/26 17:34:16 ] > Employee Sockets Generated
+[ 2017/04/26 17:34:16 ] > Employee Sockets Generated
+[ 2017/04/26 17:34:16 ] > Employee Successfullly Logged In
+[ 2017/04/26 17:34:16 ] > Server Thread Initialized
+[ 2017/04/26 17:34:16 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:34:43 ] > Server Thread Initialized
+[ 2017/04/26 17:34:43 ] > Mikhail Shaw has went online
+[ 2017/04/26 17:34:49 ] > Server Thread Initialized
+[ 2017/04/26 17:34:49 ] > Student Logged In
+[ 2017/04/26 17:34:52 ] > Server Thread Initialized
+[ 2017/04/26 17:34:52 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:35:00 ] > Server Thread Initialized
+[ 2017/04/26 17:35:00 ] > Employees Online List Sent To Student
+[ 2017/04/26 17:35:41 ] > Server Thread Initialized
+[ 2017/04/26 17:35:41 ] > Student Logged Out
+[ 2017/04/26 17:36:54 ] > Server Thread Initialized
+[ 2017/04/26 17:36:54 ] > Student Logged In
+[ 2017/04/26 17:36:57 ] > Server Thread Initialized
+[ 2017/04/26 17:36:57 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:37:17 ] > Server Thread Initialized
+[ 2017/04/26 17:37:17 ] > Employees Online List Sent To Student
+[ 2017/04/26 17:37:36 ] > Server Thread Initialized
+[ 2017/04/26 17:37:36 ] > (Exception) : -1 ArrayList.java -> java.util.ArrayList -> elementData -> 418
+[ 2017/04/26 17:41:42 ] > Server Thread Initialized
+[ 2017/04/26 17:41:42 ] > Student Logged Out
+[ 2017/04/26 17:44:21 ] > Server Started.
+[ 2017/04/26 17:44:43 ] > Server Thread Initialized
+[ 2017/04/26 17:44:45 ] > Employee Sockets Generated
+[ 2017/04/26 17:44:45 ] > Employee Sockets Generated
+[ 2017/04/26 17:44:45 ] > Employee Sockets Generated
+[ 2017/04/26 17:44:45 ] > Employee Successfullly Logged In
+[ 2017/04/26 17:44:45 ] > Server Thread Initialized
+[ 2017/04/26 17:44:45 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:44:49 ] > Server Thread Initialized
+[ 2017/04/26 17:44:49 ] > Mikhail Shaw has went online
+[ 2017/04/26 17:45:21 ] > Server Thread Initialized
+[ 2017/04/26 17:45:21 ] > Student Logged In
+[ 2017/04/26 17:45:24 ] > Server Thread Initialized
+[ 2017/04/26 17:45:24 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:45:30 ] > Server Thread Initialized
+[ 2017/04/26 17:45:31 ] > Employees Online List Sent To Student
+[ 2017/04/26 17:46:50 ] > Server Thread Initialized
+[ 2017/04/26 17:46:50 ] > (Exception) : -1 ArrayList.java -> java.util.ArrayList -> elementData -> 418
+[ 2017/04/26 17:47:27 ] > Server Thread Initialized
+[ 2017/04/26 17:47:27 ] > Employee Sockets Generated
+[ 2017/04/26 17:47:27 ] > Employee Sockets Generated
+[ 2017/04/26 17:47:27 ] > Employee Sockets Generated
+[ 2017/04/26 17:47:27 ] > Employee Successfullly Logged In
+[ 2017/04/26 17:47:27 ] > Server Thread Initialized
+[ 2017/04/26 17:47:27 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:47:31 ] > Server Thread Initialized
+[ 2017/04/26 17:47:31 ] > Mikhail Shaw has went online
+[ 2017/04/26 17:49:08 ] > Server Thread Initialized
+[ 2017/04/26 17:49:08 ] > Student Logged In
+[ 2017/04/26 17:49:10 ] > Server Thread Initialized
+[ 2017/04/26 17:49:10 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:49:17 ] > Server Thread Initialized
+[ 2017/04/26 17:49:17 ] > Employees Online List Sent To Student
+[ 2017/04/26 17:51:03 ] > Server Thread Initialized
+[ 2017/04/26 17:51:03 ] > Refund Sent From Student
+[ 2017/04/26 17:51:03 ] > Query Failed <<Session Expired>>
+[ 2017/04/26 17:51:26 ] > Server Thread Initialized
+[ 2017/04/26 17:51:26 ] > Student Information Loaded and Sent To Employee
+[ 2017/04/26 17:52:54 ] > Server Thread Initialized
+[ 2017/04/26 17:52:54 ] > Query Sent!
+[ 2017/04/26 17:53:00 ] > Server Thread Initialized
+[ 2017/04/26 17:53:00 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:53:14 ] > Server Thread Initialized
+[ 2017/04/26 17:53:14 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:53:32 ] > Server Thread Initialized
+[ 2017/04/26 17:53:32 ] > Student Information Loaded and Sent To Employee
+[ 2017/04/26 17:54:02 ] > Server Thread Initialized
+[ 2017/04/26 17:54:02 ] > Response Sent!
+[ 2017/04/26 17:54:18 ] > Server Thread Initialized
+[ 2017/04/26 17:54:18 ] > Previous Queries Sent So Student
+[ 2017/04/26 17:54:36 ] > Server Thread Initialized
+[ 2017/04/26 17:54:36 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 17:56:27 ] > Server Thread Initialized
+[ 2017/04/26 17:56:27 ] > Student Logged Out
+[ 2017/04/26 17:56:30 ] > Server Thread Initialized
+[ 2017/04/26 17:56:30 ] > (Exception) : -1 ArrayList.java -> java.util.ArrayList -> elementData -> 418
+[ 2017/04/26 18:00:19 ] > Server Started.
+[ 2017/04/26 18:00:43 ] > Server Started.
+[ 2017/04/26 18:00:44 ] > (IOException) : Address already in use: JVM_Bind DualStackPlainSocketImpl.java -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 18:00:57 ] > (Exception) : null Server.java -> server.Server -> runServer -> 117
+[ 2017/04/26 18:01:19 ] > Server Thread Initialized
+[ 2017/04/26 18:01:21 ] > Employee Sockets Generated
+[ 2017/04/26 18:01:21 ] > Employee Sockets Generated
+[ 2017/04/26 18:01:21 ] > Employee Sockets Generated
+[ 2017/04/26 18:01:22 ] > Employee Successfullly Logged In
+[ 2017/04/26 18:01:22 ] > Server Thread Initialized
+[ 2017/04/26 18:01:22 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 18:01:31 ] > Server Thread Initialized
+[ 2017/04/26 18:01:31 ] > Student Information Loaded and Sent To Employee
+[ 2017/04/26 18:03:30 ] > Server Started.
+[ 2017/04/26 19:29:50 ] > Server Started.
+[ 2017/04/26 19:31:34 ] > Server Thread Initialized
+[ 2017/04/26 19:31:36 ] > Student Logged In
+[ 2017/04/26 19:31:38 ] > Server Thread Initialized
+[ 2017/04/26 19:31:38 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:32:18 ] > Server Thread Initialized
+[ 2017/04/26 19:32:19 ] > Employee Sockets Generated
+[ 2017/04/26 19:32:19 ] > Employee Sockets Generated
+[ 2017/04/26 19:32:19 ] > Employee Sockets Generated
+[ 2017/04/26 19:32:19 ] > Employee Successfullly Logged In
+[ 2017/04/26 19:32:19 ] > Server Thread Initialized
+[ 2017/04/26 19:32:19 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 19:32:37 ] > Server Thread Initialized
+[ 2017/04/26 19:32:37 ] > Refund Sent From Student
+[ 2017/04/26 19:32:37 ] > Query Failed <<Session Expired>>
+[ 2017/04/26 19:33:10 ] > Server Thread Initialized
+[ 2017/04/26 19:33:10 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:33:28 ] > Server Thread Initialized
+[ 2017/04/26 19:33:28 ] > Query Sent!
+[ 2017/04/26 19:33:30 ] > Server Thread Initialized
+[ 2017/04/26 19:33:30 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:34:10 ] > Server Thread Initialized
+[ 2017/04/26 19:34:10 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 19:34:20 ] > Server Thread Initialized
+[ 2017/04/26 19:34:20 ] > Student Information Loaded and Sent To Employee
+[ 2017/04/26 19:34:43 ] > Server Thread Initialized
+[ 2017/04/26 19:34:44 ] > Mikhail Shaw on Raidlein has went online
+[ 2017/04/26 19:34:47 ] > Server Thread Initialized
+[ 2017/04/26 19:34:47 ] > Employees Online List Sent To Student
+[ 2017/04/26 19:39:26 ] > Server Thread Initialized
+[ 2017/04/26 19:39:26 ] > Mikhail Shaw on Raidlein has went offline
+[ 2017/04/26 19:49:00 ] > Server Thread Initialized
+[ 2017/04/26 19:49:00 ] > Student Logged In
+[ 2017/04/26 19:49:02 ] > Server Thread Initialized
+[ 2017/04/26 19:49:02 ] > Employee Sockets Generated
+[ 2017/04/26 19:49:02 ] > Employee Sockets Generated
+[ 2017/04/26 19:49:02 ] > Employee Sockets Generated
+[ 2017/04/26 19:49:02 ] > Employee Successfullly Logged In
+[ 2017/04/26 19:49:02 ] > Server Thread Initialized
+[ 2017/04/26 19:49:02 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 19:49:04 ] > Server Thread Initialized
+[ 2017/04/26 19:49:04 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:49:06 ] > Server Thread Initialized
+[ 2017/04/26 19:49:06 ] > Mikhail Shaw on Raidlein has went online
+[ 2017/04/26 19:49:14 ] > Server Thread Initialized
+[ 2017/04/26 19:49:14 ] > Employees Online List Sent To Student
+[ 2017/04/26 19:49:16 ] > Server Thread Initialized
+[ 2017/04/26 19:49:16 ] > File Retrieved
+[ 2017/04/26 19:50:59 ] > Server Thread Initialized
+[ 2017/04/26 19:51:00 ] > Mikhail Shaw on Raidlein has went offline
+[ 2017/04/26 19:51:03 ] > Server Thread Initialized
+[ 2017/04/26 19:51:03 ] > Mikhail Shaw on Raidlein has went online
+[ 2017/04/26 19:51:27 ] > Server Thread Initialized
+[ 2017/04/26 19:51:27 ] > Student Logged In
+[ 2017/04/26 19:51:29 ] > Server Thread Initialized
+[ 2017/04/26 19:51:29 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:51:38 ] > Server Thread Initialized
+[ 2017/04/26 19:51:38 ] > Employees Online List Sent To Student
+[ 2017/04/26 19:52:04 ] > Server Thread Initialized
+[ 2017/04/26 19:52:04 ] > Mikhail Shaw on Raidlein has went offline
+[ 2017/04/26 19:52:36 ] > Server Thread Initialized
+[ 2017/04/26 19:52:37 ] > Student Logged In
+[ 2017/04/26 19:52:39 ] > Server Thread Initialized
+[ 2017/04/26 19:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 19:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 19:52:39 ] > Employee Sockets Generated
+[ 2017/04/26 19:52:39 ] > Server Thread Initialized
+[ 2017/04/26 19:52:39 ] > Employee Successfullly Logged In
+[ 2017/04/26 19:52:39 ] > Previous Queries Sent So Student
+[ 2017/04/26 19:52:39 ] > Server Thread Initialized
+[ 2017/04/26 19:52:39 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 19:52:45 ] > Server Thread Initialized
+[ 2017/04/26 19:52:45 ] > Employees Online List Sent To Student
+[ 2017/04/26 19:52:47 ] > Server Thread Initialized
+[ 2017/04/26 19:52:47 ] > File Retrieved
+[ 2017/04/26 19:53:14 ] > Server Thread Initialized
+[ 2017/04/26 19:53:15 ] > Mikhail Shaw on Raidlein has went online
+[ 2017/04/26 19:53:20 ] > Server Thread Initialized
+[ 2017/04/26 19:53:20 ] > Employees Online List Sent To Student
+[ 2017/04/26 19:54:58 ] > Server Thread Initialized
+[ 2017/04/26 19:54:58 ] > File Retrieved
+[ 2017/04/26 19:56:27 ] > Server Thread Initialized
+[ 2017/04/26 19:56:27 ] > Employee Sockets Generated
+[ 2017/04/26 19:56:27 ] > Employee Sockets Generated
+[ 2017/04/26 19:56:27 ] > Employee Sockets Generated
+[ 2017/04/26 19:56:27 ] > Employee Successfullly Logged In
+[ 2017/04/26 19:56:28 ] > Server Thread Initialized
+[ 2017/04/26 19:56:28 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 19:56:36 ] > Server Thread Initialized
+[ 2017/04/26 19:56:36 ] > File Retrieved
+[ 2017/04/26 19:57:21 ] > Server Thread Initialized
+[ 2017/04/26 19:57:21 ] > Previous Queries Sent So Student
+[ 2017/04/26 20:00:00 ] > Server Thread Initialized
+[ 2017/04/26 20:00:01 ] > Query Sent!
+[ 2017/04/26 20:00:05 ] > Server Thread Initialized
+[ 2017/04/26 20:00:05 ] > Previous Queries Sent So Student
+[ 2017/04/26 20:00:12 ] > Server Thread Initialized
+[ 2017/04/26 20:00:12 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 20:01:33 ] > Server Thread Initialized
+[ 2017/04/26 20:01:33 ] > Response Sent!
+[ 2017/04/26 20:02:29 ] > Server Thread Initialized
+[ 2017/04/26 20:02:29 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 20:06:11 ] > Server Thread Initialized
+[ 2017/04/26 20:06:11 ] > Mikhail Shaw on Raidlein has went offline
+[ 2017/04/26 20:10:16 ] > Server Started.
+[ 2017/04/26 20:10:38 ] > Server Thread Initialized
+[ 2017/04/26 20:10:40 ] > Employee Sockets Generated
+[ 2017/04/26 20:10:40 ] > Employee Sockets Generated
+[ 2017/04/26 20:10:40 ] > Employee Sockets Generated
+[ 2017/04/26 20:10:40 ] > Employee Successfullly Logged In
+[ 2017/04/26 20:10:40 ] > Server Thread Initialized
+[ 2017/04/26 20:10:40 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 20:11:06 ] > Server Thread Initialized
+[ 2017/04/26 20:11:06 ] > Response Sent!
+[ 2017/04/26 20:15:38 ] > Server Started.
+[ 2017/04/26 20:25:09 ] > Server Started.
+[ 2017/04/26 20:25:28 ] > Server Thread Initialized
+[ 2017/04/26 20:25:30 ] > Employee Sockets Generated
+[ 2017/04/26 20:25:30 ] > Employee Sockets Generated
+[ 2017/04/26 20:25:30 ] > Employee Sockets Generated
+[ 2017/04/26 20:25:30 ] > Employee Successfullly Logged In
+[ 2017/04/26 20:25:31 ] > Server Thread Initialized
+[ 2017/04/26 20:25:31 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 20:25:56 ] > Server Thread Initialized
+[ 2017/04/26 20:25:56 ] > Response Sent!
+[ 2017/04/26 20:26:18 ] > Server Thread Initialized
+[ 2017/04/26 20:26:18 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/26 20:26:25 ] > Server Thread Initialized
+[ 2017/04/26 20:26:25 ] > File Retrieved
+[ 2017/04/27 00:08:34 ] > Server Started.
+[ 2017/04/27 00:09:59 ] > Server Thread Initialized
+[ 2017/04/27 00:10:03 ] > Employee Sockets Generated
+[ 2017/04/27 00:10:03 ] > Employee Sockets Generated
+[ 2017/04/27 00:10:03 ] > Employee Sockets Generated
+[ 2017/04/27 00:10:03 ] > Employee Successfullly Logged In
+[ 2017/04/27 00:10:04 ] > Server Thread Initialized
+[ 2017/04/27 00:10:04 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 00:10:12 ] > Server Thread Initialized
+[ 2017/04/27 00:10:12 ] > Mikhail Shaw on Employee Going Online has went online
+[ 2017/04/27 00:10:37 ] > Server Thread Initialized
+[ 2017/04/27 00:10:37 ] > Student Logged In
+[ 2017/04/27 00:10:39 ] > Server Thread Initialized
+[ 2017/04/27 00:10:39 ] > Previous Queries Sent So Student
+[ 2017/04/27 00:10:44 ] > Server Thread Initialized
+[ 2017/04/27 00:10:44 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:12:59 ] > Server Started.
+[ 2017/04/27 00:13:34 ] > Server Thread Initialized
+[ 2017/04/27 00:13:36 ] > Employee Sockets Generated
+[ 2017/04/27 00:13:36 ] > Employee Sockets Generated
+[ 2017/04/27 00:13:36 ] > Employee Sockets Generated
+[ 2017/04/27 00:13:36 ] > Employee Successfullly Logged In
+[ 2017/04/27 00:13:36 ] > Server Thread Initialized
+[ 2017/04/27 00:13:37 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 00:14:02 ] > Server Thread Initialized
+[ 2017/04/27 00:14:02 ] > Student Logged In
+[ 2017/04/27 00:14:04 ] > Server Thread Initialized
+[ 2017/04/27 00:14:04 ] > Previous Queries Sent So Student
+[ 2017/04/27 00:14:07 ] > Server Thread Initialized
+[ 2017/04/27 00:14:07 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:14:10 ] > Server Thread Initialized
+[ 2017/04/27 00:14:10 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 00:14:16 ] > Server Thread Initialized
+[ 2017/04/27 00:14:16 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:14:46 ] > Server Thread Initialized
+[ 2017/04/27 00:14:46 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:15:08 ] > Server Thread Initialized
+[ 2017/04/27 00:15:08 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 00:15:43 ] > Server Thread Initialized
+[ 2017/04/27 00:15:43 ] > Employee Sockets Generated
+[ 2017/04/27 00:15:43 ] > Employee Sockets Generated
+[ 2017/04/27 00:15:43 ] > Employee Sockets Generated
+[ 2017/04/27 00:15:43 ] > Employee Successfullly Logged In
+[ 2017/04/27 00:15:44 ] > Server Thread Initialized
+[ 2017/04/27 00:15:44 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 00:16:00 ] > Server Thread Initialized
+[ 2017/04/27 00:16:00 ] > Student Logged In
+[ 2017/04/27 00:16:01 ] > Server Thread Initialized
+[ 2017/04/27 00:16:02 ] > Previous Queries Sent So Student
+[ 2017/04/27 00:16:04 ] > Server Thread Initialized
+[ 2017/04/27 00:16:04 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 00:16:10 ] > Server Thread Initialized
+[ 2017/04/27 00:16:10 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:16:24 ] > Server Thread Initialized
+[ 2017/04/27 00:16:24 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 00:23:15 ] > Server Thread Initialized
+[ 2017/04/27 00:23:15 ] > Employee Sockets Generated
+[ 2017/04/27 00:23:15 ] > Employee Sockets Generated
+[ 2017/04/27 00:23:15 ] > Employee Sockets Generated
+[ 2017/04/27 00:23:15 ] > Employee Successfullly Logged In
+[ 2017/04/27 00:23:15 ] > Server Thread Initialized
+[ 2017/04/27 00:23:15 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 00:23:24 ] > Server Thread Initialized
+[ 2017/04/27 00:23:24 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 00:23:38 ] > Server Thread Initialized
+[ 2017/04/27 00:23:38 ] > Student Logged In
+[ 2017/04/27 00:23:40 ] > Server Thread Initialized
+[ 2017/04/27 00:23:40 ] > Previous Queries Sent So Student
+[ 2017/04/27 00:23:51 ] > Server Thread Initialized
+[ 2017/04/27 00:23:51 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:24:25 ] > Server Thread Initialized
+[ 2017/04/27 00:24:25 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 00:24:32 ] > Server Thread Initialized
+[ 2017/04/27 00:24:32 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:24:35 ] > Server Thread Initialized
+[ 2017/04/27 00:24:35 ] > Employees Online List Sent To Student
+[ 2017/04/27 00:25:02 ] > Server Thread Initialized
+[ 2017/04/27 00:25:02 ] > Employee Sockets Generated
+[ 2017/04/27 00:25:02 ] > Employee Sockets Generated
+[ 2017/04/27 00:25:02 ] > Employee Sockets Generated
+[ 2017/04/27 00:25:02 ] > Employee Successfullly Logged In
+[ 2017/04/27 00:25:03 ] > Server Thread Initialized
+[ 2017/04/27 00:25:03 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 00:25:20 ] > Server Thread Initialized
+[ 2017/04/27 00:25:20 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 00:25:25 ] > Server Thread Initialized
+[ 2017/04/27 00:25:25 ] > Employees Online List Sent To Student
+[ 2017/04/27 07:42:34 ] > Server Started.
+[ 2017/04/27 07:44:42 ] > Server Thread Initialized
+[ 2017/04/27 07:44:46 ] > Employee Sockets Generated
+[ 2017/04/27 07:44:46 ] > Employee Sockets Generated
+[ 2017/04/27 07:44:46 ] > Employee Sockets Generated
+[ 2017/04/27 07:44:46 ] > Employee Successfullly Logged In
+[ 2017/04/27 07:44:47 ] > Server Thread Initialized
+[ 2017/04/27 07:44:48 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 07:45:00 ] > Server Thread Initialized
+[ 2017/04/27 07:45:00 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 07:45:30 ] > Server Thread Initialized
+[ 2017/04/27 07:45:31 ] > Student Logged In
+[ 2017/04/27 07:45:33 ] > Server Thread Initialized
+[ 2017/04/27 07:45:33 ] > Previous Queries Sent So Student
+[ 2017/04/27 07:45:52 ] > Server Thread Initialized
+[ 2017/04/27 07:45:52 ] > Employees Online List Sent To Student
+[ 2017/04/27 07:46:16 ] > Server Thread Initialized
+[ 2017/04/27 07:46:16 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 07:46:51 ] > Server Thread Initialized
+[ 2017/04/27 07:46:51 ] > Student Logged In
+[ 2017/04/27 07:46:53 ] > Server Thread Initialized
+[ 2017/04/27 07:46:53 ] > Previous Queries Sent So Student
+[ 2017/04/27 07:47:49 ] > Server Thread Initialized
+[ 2017/04/27 07:47:49 ] > Employee Sockets Generated
+[ 2017/04/27 07:47:49 ] > Employee Sockets Generated
+[ 2017/04/27 07:47:49 ] > Employee Sockets Generated
+[ 2017/04/27 07:47:49 ] > Employee Successfullly Logged In
+[ 2017/04/27 07:47:50 ] > Server Thread Initialized
+[ 2017/04/27 07:47:50 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 07:47:57 ] > Server Thread Initialized
+[ 2017/04/27 07:47:57 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 07:48:05 ] > Server Thread Initialized
+[ 2017/04/27 07:48:05 ] > Employees Online List Sent To Student
+[ 2017/04/27 07:48:36 ] > Server Thread Initialized
+[ 2017/04/27 07:48:36 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 07:52:40 ] > Server Thread Initialized
+[ 2017/04/27 07:52:40 ] > Employee Sockets Generated
+[ 2017/04/27 07:52:40 ] > Employee Sockets Generated
+[ 2017/04/27 07:52:40 ] > Employee Sockets Generated
+[ 2017/04/27 07:52:40 ] > Employee Successfullly Logged In
+[ 2017/04/27 07:52:40 ] > Server Thread Initialized
+[ 2017/04/27 07:52:40 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 07:52:52 ] > Server Thread Initialized
+[ 2017/04/27 07:52:52 ] > Student Logged In
+[ 2017/04/27 07:52:54 ] > Server Thread Initialized
+[ 2017/04/27 07:52:54 ] > Previous Queries Sent So Student
+[ 2017/04/27 07:52:57 ] > Server Thread Initialized
+[ 2017/04/27 07:52:57 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 07:53:05 ] > Server Thread Initialized
+[ 2017/04/27 07:53:05 ] > Employees Online List Sent To Student
+[ 2017/04/27 07:54:30 ] > Server Thread Initialized
+[ 2017/04/27 07:54:30 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 07:56:42 ] > Server Thread Initialized
+[ 2017/04/27 07:56:42 ] > Employee Sockets Generated
+[ 2017/04/27 07:56:42 ] > Employee Sockets Generated
+[ 2017/04/27 07:56:42 ] > Employee Sockets Generated
+[ 2017/04/27 07:56:42 ] > Employee Successfullly Logged In
+[ 2017/04/27 07:56:43 ] > Server Thread Initialized
+[ 2017/04/27 07:56:43 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 07:56:57 ] > Server Thread Initialized
+[ 2017/04/27 07:56:57 ] > Student Logged In
+[ 2017/04/27 07:56:59 ] > Server Thread Initialized
+[ 2017/04/27 07:56:59 ] > Previous Queries Sent So Student
+[ 2017/04/27 07:57:01 ] > Server Thread Initialized
+[ 2017/04/27 07:57:01 ] > Employees Online List Sent To Student
+[ 2017/04/27 07:57:03 ] > Server Thread Initialized
+[ 2017/04/27 07:57:03 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 07:57:09 ] > Server Thread Initialized
+[ 2017/04/27 07:57:09 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:01:29 ] > Server Thread Initialized
+[ 2017/04/27 08:01:29 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:01:42 ] > Server Thread Initialized
+[ 2017/04/27 08:01:42 ] > Employee Sockets Generated
+[ 2017/04/27 08:01:42 ] > Employee Sockets Generated
+[ 2017/04/27 08:01:42 ] > Employee Sockets Generated
+[ 2017/04/27 08:01:42 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:01:43 ] > Server Thread Initialized
+[ 2017/04/27 08:01:43 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:01:50 ] > Server Thread Initialized
+[ 2017/04/27 08:01:50 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:01:53 ] > Server Thread Initialized
+[ 2017/04/27 08:01:53 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:01:58 ] > Server Thread Initialized
+[ 2017/04/27 08:01:58 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:02:53 ] > Server Thread Initialized
+[ 2017/04/27 08:02:53 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:03:48 ] > Server Thread Initialized
+[ 2017/04/27 08:03:48 ] > Employee Sockets Generated
+[ 2017/04/27 08:03:48 ] > Employee Sockets Generated
+[ 2017/04/27 08:03:48 ] > Employee Sockets Generated
+[ 2017/04/27 08:03:48 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:03:48 ] > Server Thread Initialized
+[ 2017/04/27 08:03:49 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:03:53 ] > Server Thread Initialized
+[ 2017/04/27 08:03:53 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:04:01 ] > Server Thread Initialized
+[ 2017/04/27 08:04:02 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:04:24 ] > Server Thread Initialized
+[ 2017/04/27 08:04:24 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:06:31 ] > Server Thread Initialized
+[ 2017/04/27 08:06:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:06:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:06:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:06:31 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:06:32 ] > Server Thread Initialized
+[ 2017/04/27 08:06:32 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:06:37 ] > Server Thread Initialized
+[ 2017/04/27 08:06:38 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:07:07 ] > Server Thread Initialized
+[ 2017/04/27 08:07:08 ] > Student Logged In
+[ 2017/04/27 08:07:09 ] > Server Thread Initialized
+[ 2017/04/27 08:07:09 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:07:13 ] > Server Thread Initialized
+[ 2017/04/27 08:07:14 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:07:27 ] > Server Thread Initialized
+[ 2017/04/27 08:07:27 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:08:55 ] > Server Thread Initialized
+[ 2017/04/27 08:08:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:08:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:08:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:08:56 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:08:56 ] > Server Thread Initialized
+[ 2017/04/27 08:08:56 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:09:03 ] > Server Thread Initialized
+[ 2017/04/27 08:09:03 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:09:18 ] > Server Thread Initialized
+[ 2017/04/27 08:09:18 ] > Student Logged In
+[ 2017/04/27 08:09:19 ] > Server Thread Initialized
+[ 2017/04/27 08:09:19 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:09:23 ] > Server Thread Initialized
+[ 2017/04/27 08:09:23 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:10:50 ] > Server Thread Initialized
+[ 2017/04/27 08:10:50 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:12:44 ] > Server Thread Initialized
+[ 2017/04/27 08:12:44 ] > Employee Sockets Generated
+[ 2017/04/27 08:12:44 ] > Employee Sockets Generated
+[ 2017/04/27 08:12:44 ] > Employee Sockets Generated
+[ 2017/04/27 08:12:44 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:12:45 ] > Server Thread Initialized
+[ 2017/04/27 08:12:45 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:12:50 ] > Server Thread Initialized
+[ 2017/04/27 08:12:50 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:12:56 ] > Server Thread Initialized
+[ 2017/04/27 08:12:56 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:13:52 ] > Server Thread Initialized
+[ 2017/04/27 08:13:52 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:14:51 ] > Server Thread Initialized
+[ 2017/04/27 08:14:51 ] > Employee Sockets Generated
+[ 2017/04/27 08:14:51 ] > Employee Sockets Generated
+[ 2017/04/27 08:14:51 ] > Employee Sockets Generated
+[ 2017/04/27 08:14:51 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:14:51 ] > Server Thread Initialized
+[ 2017/04/27 08:14:51 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:15:03 ] > Server Thread Initialized
+[ 2017/04/27 08:15:03 ] > Student Logged In
+[ 2017/04/27 08:15:05 ] > Server Thread Initialized
+[ 2017/04/27 08:15:05 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:15:07 ] > Server Thread Initialized
+[ 2017/04/27 08:15:07 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:15:22 ] > Server Thread Initialized
+[ 2017/04/27 08:15:22 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:16:28 ] > Server Thread Initialized
+[ 2017/04/27 08:16:28 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:17:05 ] > Server Thread Initialized
+[ 2017/04/27 08:17:05 ] > Employee Sockets Generated
+[ 2017/04/27 08:17:05 ] > Employee Sockets Generated
+[ 2017/04/27 08:17:05 ] > Employee Sockets Generated
+[ 2017/04/27 08:17:05 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:17:06 ] > Server Thread Initialized
+[ 2017/04/27 08:17:06 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:17:11 ] > Server Thread Initialized
+[ 2017/04/27 08:17:11 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:17:16 ] > Server Thread Initialized
+[ 2017/04/27 08:17:16 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:19:22 ] > Server Started.
+[ 2017/04/27 08:23:00 ] > Server Thread Initialized
+[ 2017/04/27 08:23:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:23:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:23:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:23:03 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:23:03 ] > Server Thread Initialized
+[ 2017/04/27 08:23:03 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:23:15 ] > Server Thread Initialized
+[ 2017/04/27 08:23:15 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:23:37 ] > Server Thread Initialized
+[ 2017/04/27 08:23:37 ] > Student Failed to Log In
+[ 2017/04/27 08:23:49 ] > Server Thread Initialized
+[ 2017/04/27 08:23:49 ] > Student Logged In
+[ 2017/04/27 08:23:50 ] > Server Thread Initialized
+[ 2017/04/27 08:23:50 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:23:55 ] > Server Thread Initialized
+[ 2017/04/27 08:23:55 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:25:09 ] > Server Thread Initialized
+[ 2017/04/27 08:25:09 ] > Student Logged In
+[ 2017/04/27 08:25:11 ] > Server Thread Initialized
+[ 2017/04/27 08:25:11 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:25:17 ] > Server Thread Initialized
+[ 2017/04/27 08:25:18 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:26:35 ] > Server Thread Initialized
+[ 2017/04/27 08:26:35 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:29:00 ] > Server Thread Initialized
+[ 2017/04/27 08:29:00 ] > Employee Sockets Generated
+[ 2017/04/27 08:29:00 ] > Employee Sockets Generated
+[ 2017/04/27 08:29:00 ] > Employee Sockets Generated
+[ 2017/04/27 08:29:00 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:29:00 ] > Server Thread Initialized
+[ 2017/04/27 08:29:00 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:29:06 ] > Server Thread Initialized
+[ 2017/04/27 08:29:06 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:29:26 ] > Server Thread Initialized
+[ 2017/04/27 08:29:26 ] > Student Logged In
+[ 2017/04/27 08:29:29 ] > Server Thread Initialized
+[ 2017/04/27 08:29:29 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:29:31 ] > Server Thread Initialized
+[ 2017/04/27 08:29:31 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:30:20 ] > Server Thread Initialized
+[ 2017/04/27 08:30:20 ] > Student Logged In
+[ 2017/04/27 08:30:22 ] > Server Thread Initialized
+[ 2017/04/27 08:30:22 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:30:35 ] > Server Thread Initialized
+[ 2017/04/27 08:30:35 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:30:45 ] > Server Thread Initialized
+[ 2017/04/27 08:30:45 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:32:03 ] > Server Thread Initialized
+[ 2017/04/27 08:32:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:32:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:32:03 ] > Employee Sockets Generated
+[ 2017/04/27 08:32:03 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:32:04 ] > Server Thread Initialized
+[ 2017/04/27 08:32:04 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:32:08 ] > Server Thread Initialized
+[ 2017/04/27 08:32:08 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:32:26 ] > Server Thread Initialized
+[ 2017/04/27 08:32:26 ] > Student Failed to Log In
+[ 2017/04/27 08:32:35 ] > Server Thread Initialized
+[ 2017/04/27 08:32:36 ] > Student Logged In
+[ 2017/04/27 08:32:37 ] > Server Thread Initialized
+[ 2017/04/27 08:32:37 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:32:40 ] > Server Thread Initialized
+[ 2017/04/27 08:32:40 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:33:08 ] > Server Thread Initialized
+[ 2017/04/27 08:33:08 ] > Student Logged In
+[ 2017/04/27 08:33:09 ] > Server Thread Initialized
+[ 2017/04/27 08:33:09 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:33:12 ] > Server Thread Initialized
+[ 2017/04/27 08:33:12 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:37:37 ] > Server Thread Initialized
+[ 2017/04/27 08:37:37 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:38:24 ] > Server Thread Initialized
+[ 2017/04/27 08:38:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:38:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:38:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:38:24 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:38:24 ] > Server Thread Initialized
+[ 2017/04/27 08:38:24 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:38:30 ] > Server Thread Initialized
+[ 2017/04/27 08:38:30 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:38:52 ] > Server Thread Initialized
+[ 2017/04/27 08:38:52 ] > Student Logged In
+[ 2017/04/27 08:38:54 ] > Server Thread Initialized
+[ 2017/04/27 08:38:54 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:38:58 ] > Server Thread Initialized
+[ 2017/04/27 08:38:58 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:40:49 ] > Server Thread Initialized
+[ 2017/04/27 08:40:49 ] > Employee Sockets Generated
+[ 2017/04/27 08:40:49 ] > Employee Sockets Generated
+[ 2017/04/27 08:40:49 ] > Employee Sockets Generated
+[ 2017/04/27 08:40:49 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:40:49 ] > Server Thread Initialized
+[ 2017/04/27 08:40:49 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:40:56 ] > Server Thread Initialized
+[ 2017/04/27 08:40:56 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:41:02 ] > Server Thread Initialized
+[ 2017/04/27 08:41:02 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:41:43 ] > Server Started.
+[ 2017/04/27 08:42:28 ] > Server Thread Initialized
+[ 2017/04/27 08:42:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:42:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:42:31 ] > Employee Sockets Generated
+[ 2017/04/27 08:42:31 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:42:31 ] > Server Thread Initialized
+[ 2017/04/27 08:42:31 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:42:53 ] > Server Thread Initialized
+[ 2017/04/27 08:42:53 ] > Student Logged In
+[ 2017/04/27 08:42:55 ] > Server Thread Initialized
+[ 2017/04/27 08:42:55 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:42:59 ] > Server Thread Initialized
+[ 2017/04/27 08:42:59 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:43:47 ] > Server Started.
+[ 2017/04/27 08:45:24 ] > Server Thread Initialized
+[ 2017/04/27 08:45:26 ] > Employee Sockets Generated
+[ 2017/04/27 08:45:26 ] > Employee Sockets Generated
+[ 2017/04/27 08:45:26 ] > Employee Sockets Generated
+[ 2017/04/27 08:45:26 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:45:27 ] > Server Thread Initialized
+[ 2017/04/27 08:45:27 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:45:31 ] > Server Thread Initialized
+[ 2017/04/27 08:45:31 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:46:14 ] > Server Started.
+[ 2017/04/27 08:48:48 ] > Server Thread Initialized
+[ 2017/04/27 08:48:50 ] > Employe Failed To Log In
+[ 2017/04/27 08:48:56 ] > Server Thread Initialized
+[ 2017/04/27 08:48:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:48:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:48:56 ] > Employee Sockets Generated
+[ 2017/04/27 08:48:56 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:48:57 ] > Server Thread Initialized
+[ 2017/04/27 08:48:57 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:49:10 ] > Server Thread Initialized
+[ 2017/04/27 08:49:10 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:49:30 ] > Server Thread Initialized
+[ 2017/04/27 08:49:30 ] > Student Logged In
+[ 2017/04/27 08:49:33 ] > Server Thread Initialized
+[ 2017/04/27 08:49:33 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:49:36 ] > Server Thread Initialized
+[ 2017/04/27 08:49:36 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:50:07 ] > Server Thread Initialized
+[ 2017/04/27 08:50:07 ] > Student Logged In
+[ 2017/04/27 08:50:08 ] > Server Thread Initialized
+[ 2017/04/27 08:50:08 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:50:11 ] > Server Thread Initialized
+[ 2017/04/27 08:50:11 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:50:55 ] > Server Thread Initialized
+[ 2017/04/27 08:50:55 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:51:59 ] > Server Thread Initialized
+[ 2017/04/27 08:51:59 ] > Employee Sockets Generated
+[ 2017/04/27 08:51:59 ] > Employee Sockets Generated
+[ 2017/04/27 08:51:59 ] > Employee Sockets Generated
+[ 2017/04/27 08:51:59 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:52:00 ] > Server Thread Initialized
+[ 2017/04/27 08:52:00 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:52:04 ] > Server Thread Initialized
+[ 2017/04/27 08:52:04 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:52:27 ] > Server Thread Initialized
+[ 2017/04/27 08:52:27 ] > Student Logged In
+[ 2017/04/27 08:52:29 ] > Server Thread Initialized
+[ 2017/04/27 08:52:29 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:52:32 ] > Server Thread Initialized
+[ 2017/04/27 08:52:32 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:53:32 ] > Server Thread Initialized
+[ 2017/04/27 08:53:32 ] > Student Logged In
+[ 2017/04/27 08:53:34 ] > Server Thread Initialized
+[ 2017/04/27 08:53:34 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:53:36 ] > Server Thread Initialized
+[ 2017/04/27 08:53:36 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:53:59 ] > Server Thread Initialized
+[ 2017/04/27 08:53:59 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:55:24 ] > Server Thread Initialized
+[ 2017/04/27 08:55:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:55:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:55:24 ] > Employee Sockets Generated
+[ 2017/04/27 08:55:24 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:55:25 ] > Server Thread Initialized
+[ 2017/04/27 08:55:25 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:55:29 ] > Server Thread Initialized
+[ 2017/04/27 08:55:30 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:55:49 ] > Server Thread Initialized
+[ 2017/04/27 08:55:49 ] > Student Logged In
+[ 2017/04/27 08:55:51 ] > Server Thread Initialized
+[ 2017/04/27 08:55:51 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:55:54 ] > Server Thread Initialized
+[ 2017/04/27 08:55:54 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:57:00 ] > Server Thread Initialized
+[ 2017/04/27 08:57:00 ] > Student Logged In
+[ 2017/04/27 08:57:02 ] > Server Thread Initialized
+[ 2017/04/27 08:57:02 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:57:05 ] > Server Thread Initialized
+[ 2017/04/27 08:57:05 ] > Employees Online List Sent To Student
+[ 2017/04/27 08:57:32 ] > Server Thread Initialized
+[ 2017/04/27 08:57:32 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/27 08:58:46 ] > Server Thread Initialized
+[ 2017/04/27 08:58:46 ] > Employee Sockets Generated
+[ 2017/04/27 08:58:46 ] > Employee Sockets Generated
+[ 2017/04/27 08:58:46 ] > Employee Sockets Generated
+[ 2017/04/27 08:58:46 ] > Employee Successfullly Logged In
+[ 2017/04/27 08:58:47 ] > Server Thread Initialized
+[ 2017/04/27 08:58:47 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/27 08:58:51 ] > Server Thread Initialized
+[ 2017/04/27 08:58:51 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/27 08:59:09 ] > Server Thread Initialized
+[ 2017/04/27 08:59:09 ] > Student Logged In
+[ 2017/04/27 08:59:12 ] > Server Thread Initialized
+[ 2017/04/27 08:59:12 ] > Previous Queries Sent So Student
+[ 2017/04/27 08:59:55 ] > Server Thread Initialized
+[ 2017/04/27 08:59:55 ] > Employees Online List Sent To Student
+[ 2017/04/28 08:04:05 ] > Server Started.
+[ 2017/04/28 08:05:36 ] > Server Thread Initialized
+[ 2017/04/28 08:05:40 ] > (Exception) : null EmployeeQueryFactory.java -> factories.EmployeeQueryFactory -> Authenticate -> 25
+[ 2017/04/28 08:07:04 ] > Server Started.
+[ 2017/04/28 08:07:25 ] > Server Thread Initialized
+[ 2017/04/28 08:07:27 ] > Employee Sockets Generated
+[ 2017/04/28 08:07:27 ] > Employee Sockets Generated
+[ 2017/04/28 08:07:27 ] > Employee Sockets Generated
+[ 2017/04/28 08:07:27 ] > Employee Successfullly Logged In
+[ 2017/04/28 08:07:28 ] > Server Thread Initialized
+[ 2017/04/28 08:07:28 ] > Enquieries Loded and Sent To The Employee
+[ 2017/04/28 08:07:35 ] > Server Thread Initialized
+[ 2017/04/28 08:07:35 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/28 08:08:00 ] > Server Thread Initialized
+[ 2017/04/28 08:08:01 ] > Student Logged In
+[ 2017/04/28 08:08:04 ] > Server Thread Initialized
+[ 2017/04/28 08:08:04 ] > Previous Queries Sent So Student
+[ 2017/04/28 08:08:07 ] > Server Thread Initialized
+[ 2017/04/28 08:08:07 ] > Employees Online List Sent To Student
+[ 2017/04/28 08:08:40 ] > Server Thread Initialized
+[ 2017/04/28 08:08:40 ] > Student Logged In
+[ 2017/04/28 08:08:41 ] > Server Thread Initialized
+[ 2017/04/28 08:08:41 ] > Previous Queries Sent So Student
+[ 2017/04/28 08:08:51 ] > Server Thread Initialized
+[ 2017/04/28 08:08:51 ] > Employees Online List Sent To Student
+[ 2017/04/28 08:09:05 ] > Server Thread Initialized
+[ 2017/04/28 08:09:05 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/28 08:09:27 ] > Server Thread Initialized
+[ 2017/04/28 08:09:27 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/28 08:09:36 ] > Server Thread Initialized
+[ 2017/04/28 08:09:36 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/28 08:09:43 ] > Server Thread Initialized
+[ 2017/04/28 08:09:43 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/28 08:09:47 ] > Server Thread Initialized
+[ 2017/04/28 08:09:47 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/28 08:09:50 ] > Server Thread Initialized
+[ 2017/04/28 08:09:50 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/28 08:10:03 ] > Server Thread Initialized
+[ 2017/04/28 08:10:03 ] > Mikhail Shaw on Mik has went offline
+[ 2017/04/28 08:10:06 ] > Server Thread Initialized
+[ 2017/04/28 08:10:06 ] > Mikhail Shaw on Mik has went online
+[ 2017/04/28 08:10:49 ] > Server Thread Initialized
+[ 2017/04/28 08:10:49 ] > Mikhail Shaw on Mik has went offline

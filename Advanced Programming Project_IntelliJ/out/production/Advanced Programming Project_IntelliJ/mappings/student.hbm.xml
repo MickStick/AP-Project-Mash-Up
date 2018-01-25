@@ -1,0 +1,11 @@
+<hibernate-mapping>
+<class name="models.Student_model" table="student">
+<id name="id" column="stud_ID" type="int"/>
+<property name="firstName" column="firstName" type="java.lang.String"/>
+<property name="lastName" column="lastName" type="java.lang.String"/>
+<property name="email" column="email" type="java.lang.String"/>
+<property name="accountBal" column="accountBal" type="java.lang.Float"/>
+<property name="telephoneNum" column="telephoneNum" type="java.lang.String"/>
+<property name="clearStatus" column="clearance_status" type="java.lang.String"/>
+</class>
+</hibernate-mapping>

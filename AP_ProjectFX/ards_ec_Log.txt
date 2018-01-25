@@ -1,0 +1,1094 @@
+
+[ 2017/04/25 17:22:20 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:08:32 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:08:32 ] > Chat message sent
+[ 2017/04/25 18:26:40 ] > Port: 4767 is live
+[ 2017/04/25 18:26:40 ] > Port: 4767 is live
+[ 2017/04/25 18:26:40 ] > Port: 4767 is live
+[ 2017/04/25 18:26:40 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 998
+[ 2017/04/25 18:26:49 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 921
+[ 2017/04/25 18:26:49 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 930
+[ 2017/04/25 18:26:49 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 939
+[ 2017/04/25 18:26:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:26:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:26:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:26:56 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 998
+[ 2017/04/25 18:27:55 ] > Student connected to Employee
+[ 2017/04/25 18:28:00 ] > New Student has messaged Employee
+[ 2017/04/25 18:28:00 ] > Chat message received
+[ 2017/04/25 18:28:04 ] > Chat message received
+[ 2017/04/25 18:28:39 ] > New Student has messaged Employee
+[ 2017/04/25 18:28:39 ] > Chat message received
+[ 2017/04/25 18:28:41 ] > Chat message received
+[ 2017/04/25 18:29:15 ] > New Student has messaged Employee
+[ 2017/04/25 18:29:15 ] > Chat message received
+[ 2017/04/25 18:29:18 ] > Chat message received
+[ 2017/04/25 18:29:28 ] > Chat message sent
+[ 2017/04/25 18:29:42 ] > Chat message sent
+[ 2017/04/25 18:30:01 ] > Chat message sent
+[ 2017/04/25 18:30:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:30:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:30:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:36:56 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:36:57 ] > Chat message sent
+[ 2017/04/25 18:37:08 ] > Port: 3288 is live
+[ 2017/04/25 18:37:08 ] > Port: 3288 is live
+[ 2017/04/25 18:37:08 ] > Port: 3288 is live
+[ 2017/04/25 18:37:08 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 18:37:12 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 18:37:12 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 18:37:12 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:37:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:37:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:37:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:37:14 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 18:37:59 ] > Student connected to Employee
+[ 2017/04/25 18:38:06 ] > New Student has messaged Employee
+[ 2017/04/25 18:38:06 ] > Chat message received
+[ 2017/04/25 18:38:07 ] > Chat message received
+[ 2017/04/25 18:38:43 ] > New Student has messaged Employee
+[ 2017/04/25 18:38:43 ] > Chat message received
+[ 2017/04/25 18:38:45 ] > Chat message received
+[ 2017/04/25 18:38:49 ] > Chat message sent
+[ 2017/04/25 18:38:53 ] > Chat message sent
+[ 2017/04/25 18:39:02 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:40:12 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:40:12 ] > Chat message sent
+[ 2017/04/25 18:40:38 ] > Port: 3081 is live
+[ 2017/04/25 18:40:38 ] > Port: 3081 is live
+[ 2017/04/25 18:40:38 ] > Port: 3081 is live
+[ 2017/04/25 18:40:38 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 18:41:31 ] > Student connected to Employee
+[ 2017/04/25 18:41:35 ] > New Student has messaged Employee
+[ 2017/04/25 18:41:35 ] > Chat message received
+[ 2017/04/25 18:42:08 ] > New Student has messaged Employee
+[ 2017/04/25 18:42:08 ] > Chat message received
+[ 2017/04/25 18:42:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:42:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:23 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1019
+[ 2017/04/25 18:42:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:42:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:42:26 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1019
+[ 2017/04/25 18:42:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:52:45 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:52:46 ] > Chat message sent
+[ 2017/04/25 18:52:50 ] > Port: 3790 is live
+[ 2017/04/25 18:52:50 ] > Port: 3790 is live
+[ 2017/04/25 18:52:50 ] > Port: 3790 is live
+[ 2017/04/25 18:52:50 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 18:52:54 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 18:52:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 18:52:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 18:52:55 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:52:55 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:52:55 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 18:52:55 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 18:54:58 ] >  ARDS Student Client Started.
+[ 2017/04/25 18:54:58 ] > Chat message sent
+[ 2017/04/25 18:55:03 ] > Port: 3064 is live
+[ 2017/04/25 18:55:03 ] > Port: 3064 is live
+[ 2017/04/25 18:55:03 ] > Port: 3064 is live
+[ 2017/04/25 18:55:03 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:08:09 ] > Student connected to Employee
+[ 2017/04/25 19:09:31 ] > Chat message sent
+[ 2017/04/25 19:09:34 ] > Chat message sent
+[ 2017/04/25 19:09:34 ] > Chat message sent
+[ 2017/04/25 19:09:34 ] > Chat message sent
+[ 2017/04/25 19:10:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:10:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:11:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:11:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:11:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:11:01 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1016
+[ 2017/04/25 19:11:14 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:11:14 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:11:53 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:11:54 ] > Chat message sent
+[ 2017/04/25 19:12:00 ] > Port: 4111 is live
+[ 2017/04/25 19:12:00 ] > Port: 4111 is live
+[ 2017/04/25 19:12:00 ] > Port: 4111 is live
+[ 2017/04/25 19:12:00 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:12:45 ] > Student connected to Employee
+[ 2017/04/25 19:13:37 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 938
+[ 2017/04/25 19:13:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:13:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:14:59 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:15:00 ] > Chat message sent
+[ 2017/04/25 19:15:03 ] > Port: 3670 is live
+[ 2017/04/25 19:15:03 ] > Port: 3670 is live
+[ 2017/04/25 19:15:03 ] > Port: 3670 is live
+[ 2017/04/25 19:15:03 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:15:34 ] > Student connected to Employee
+[ 2017/04/25 19:21:14 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:21:14 ] > Chat message sent
+[ 2017/04/25 19:21:27 ] > Port: 4774 is live
+[ 2017/04/25 19:21:27 ] > Port: 4774 is live
+[ 2017/04/25 19:21:27 ] > Port: 4774 is live
+[ 2017/04/25 19:21:27 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:23:57 ] > Student connected to Employee
+[ 2017/04/25 19:26:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:26:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:27:06 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:27:07 ] > Chat message sent
+[ 2017/04/25 19:27:15 ] > Port: 2072 is live
+[ 2017/04/25 19:27:15 ] > Port: 2072 is live
+[ 2017/04/25 19:27:15 ] > Port: 2072 is live
+[ 2017/04/25 19:27:15 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:27:21 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:27:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:27:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:27:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:26 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:26 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:27:32 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:27:32 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:27:32 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:27:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:27:37 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:28:34 ] > Student connected to Employee
+[ 2017/04/25 19:28:58 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:28:58 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:29:52 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:29:52 ] > Chat message sent
+[ 2017/04/25 19:29:58 ] > Port: 3715 is live
+[ 2017/04/25 19:29:58 ] > Port: 3715 is live
+[ 2017/04/25 19:29:58 ] > Port: 3715 is live
+[ 2017/04/25 19:29:58 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:34:00 ] > Student connected to Employee
+[ 2017/04/25 19:36:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:36:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:36:54 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:36:55 ] > Chat message sent
+[ 2017/04/25 19:37:00 ] > Port: 2276 is live
+[ 2017/04/25 19:37:00 ] > Port: 2276 is live
+[ 2017/04/25 19:37:00 ] > Port: 2276 is live
+[ 2017/04/25 19:37:00 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:37:31 ] > Student connected to Employee
+[ 2017/04/25 19:37:57 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:37:57 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:45:47 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:45:48 ] > Chat message sent
+[ 2017/04/25 19:45:54 ] > Port: 4483 is live
+[ 2017/04/25 19:45:54 ] > Port: 4483 is live
+[ 2017/04/25 19:45:54 ] > Port: 4483 is live
+[ 2017/04/25 19:45:54 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:45:54 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:45:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:45:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:46:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:01 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:01 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:46:05 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:46:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:46:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:46:10 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:10 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:10 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:46:10 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:47:21 ] > Student connected to Employee
+[ 2017/04/25 19:49:42 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:49:43 ] > Chat message sent
+[ 2017/04/25 19:49:46 ] > Port: 3854 is live
+[ 2017/04/25 19:49:46 ] > Port: 3854 is live
+[ 2017/04/25 19:49:46 ] > Port: 3854 is live
+[ 2017/04/25 19:49:46 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:49:59 ] > Student connected to Employee
+[ 2017/04/25 19:50:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:50:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:51:14 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:51:15 ] > Chat message sent
+[ 2017/04/25 19:51:19 ] > Port: 2356 is live
+[ 2017/04/25 19:51:19 ] > Port: 2356 is live
+[ 2017/04/25 19:51:19 ] > Port: 2356 is live
+[ 2017/04/25 19:51:19 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:54:31 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:54:31 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:54:31 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:54:52 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:54:53 ] > Chat message sent
+[ 2017/04/25 19:54:55 ] > Port: 2771 is live
+[ 2017/04/25 19:54:55 ] > Port: 2771 is live
+[ 2017/04/25 19:54:55 ] > Port: 2771 is live
+[ 2017/04/25 19:54:55 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:55:45 ] > Student connected to Employee
+[ 2017/04/25 19:56:33 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:56:33 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:57:06 ] >  ARDS Student Client Started.
+[ 2017/04/25 19:57:07 ] > Chat message sent
+[ 2017/04/25 19:57:10 ] > Port: 4051 is live
+[ 2017/04/25 19:57:10 ] > Port: 4051 is live
+[ 2017/04/25 19:57:10 ] > Port: 4051 is live
+[ 2017/04/25 19:57:10 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:57:15 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 19:57:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:57:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 19:57:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:57:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:57:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 19:57:20 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 19:57:54 ] > Student connected to Employee
+[ 2017/04/25 19:58:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 19:58:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:02:01 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:02:02 ] > Chat message sent
+[ 2017/04/25 20:02:06 ] > Port: 2908 is live
+[ 2017/04/25 20:02:07 ] > Port: 2908 is live
+[ 2017/04/25 20:02:07 ] > Port: 2908 is live
+[ 2017/04/25 20:02:07 ] > (Exception) : null DashBoard.java -> view.ChatPane -> ChatServer -> 1013
+[ 2017/04/25 20:03:00 ] > Student connected to Employee
+[ 2017/04/25 20:03:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:03:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:05:38 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:05:38 ] > Chat message sent
+[ 2017/04/25 20:05:43 ] > Port: 3482 is live
+[ 2017/04/25 20:05:43 ] > Port: 3482 is live
+[ 2017/04/25 20:05:43 ] > Port: 3482 is live
+[ 2017/04/25 20:06:03 ] > Student connected to Employee
+[ 2017/04/25 20:06:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:06:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:06:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:06:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:06:21 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:07:22 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:07:22 ] > Chat message sent
+[ 2017/04/25 20:07:28 ] > Port: 2687 is live
+[ 2017/04/25 20:07:28 ] > Port: 2687 is live
+[ 2017/04/25 20:07:28 ] > Port: 2687 is live
+[ 2017/04/25 20:07:34 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 20:07:34 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:07:34 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:07:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:07:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:07:37 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:08:30 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:08:31 ] > Chat message sent
+[ 2017/04/25 20:08:35 ] > Port: 4038 is live
+[ 2017/04/25 20:08:35 ] > Port: 4038 is live
+[ 2017/04/25 20:08:35 ] > Port: 4038 is live
+[ 2017/04/25 20:09:03 ] > Student connected to Employee
+[ 2017/04/25 20:09:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:09:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:09:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:02 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:10:03 ] > Chat message sent
+[ 2017/04/25 20:10:05 ] > Port: 3348 is live
+[ 2017/04/25 20:10:05 ] > Port: 3348 is live
+[ 2017/04/25 20:10:05 ] > Port: 3348 is live
+[ 2017/04/25 20:10:05 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 20:10:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:10:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:10:05 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:05 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:06 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:11 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 20:10:11 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:10:11 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:10:16 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:16 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:16 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:20 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 20:10:20 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:10:20 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:10:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:23 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:39 ] > Student connected to Employee
+[ 2017/04/25 20:10:48 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:48 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:10:49 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:14:39 ] > New Student has messaged Employee
+[ 2017/04/25 20:14:39 ] > Chat message received
+[ 2017/04/25 20:16:10 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:16:10 ] > Chat message sent
+[ 2017/04/25 20:16:15 ] > Port: 2266 is live
+[ 2017/04/25 20:16:15 ] > Port: 2266 is live
+[ 2017/04/25 20:16:15 ] > Port: 2266 is live
+[ 2017/04/25 20:16:23 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 20:16:23 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:16:23 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:16:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:16:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:16:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:16:50 ] > Student connected to Employee
+[ 2017/04/25 20:16:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:16:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:16:56 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 20:18:55 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:18:55 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 20:25:31 ] >  ARDS Student Client Started.
+[ 2017/04/25 20:25:31 ] > Chat message sent
+[ 2017/04/25 20:25:36 ] > Port: 4229 is live
+[ 2017/04/25 20:25:36 ] > Port: 4229 is live
+[ 2017/04/25 20:25:36 ] > Port: 4229 is live
+[ 2017/04/25 20:26:02 ] > Student connected to Employee
+[ 2017/04/25 20:26:38 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 20:26:38 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 22:08:58 ] >  ARDS Student Client Started.
+[ 2017/04/25 22:08:59 ] > Chat message sent
+[ 2017/04/25 22:09:53 ] > Port: 2639 is live
+[ 2017/04/25 22:09:53 ] > Port: 2639 is live
+[ 2017/04/25 22:09:53 ] > Port: 2639 is live
+[ 2017/04/25 22:10:04 ] > Student connected to Employee
+[ 2017/04/25 22:14:58 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 22:14:58 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 22:22:52 ] >  ARDS Student Client Started.
+[ 2017/04/25 22:22:53 ] > Chat message sent
+[ 2017/04/25 22:22:57 ] > Port: 4626 is live
+[ 2017/04/25 22:22:57 ] > Port: 4626 is live
+[ 2017/04/25 22:22:57 ] > Port: 4626 is live
+[ 2017/04/25 22:23:28 ] > Student connected to Employee
+[ 2017/04/25 22:25:04 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 22:25:04 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 22:26:03 ] >  ARDS Student Client Started.
+[ 2017/04/25 22:26:04 ] > Chat message sent
+[ 2017/04/25 22:26:07 ] > Port: 4582 is live
+[ 2017/04/25 22:26:07 ] > Port: 4582 is live
+[ 2017/04/25 22:26:07 ] > Port: 4582 is live
+[ 2017/04/25 22:26:07 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 22:26:07 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 22:26:07 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 22:26:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:26:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:26:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:30:24 ] > Student connected to Employee
+[ 2017/04/25 22:53:31 ] >  ARDS Student Client Started.
+[ 2017/04/25 22:53:32 ] > Chat message sent
+[ 2017/04/25 22:53:35 ] > Port: 2399 is live
+[ 2017/04/25 22:53:35 ] > Port: 2399 is live
+[ 2017/04/25 22:53:35 ] > Port: 2399 is live
+[ 2017/04/25 22:53:40 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 22:53:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 22:53:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 22:53:44 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:53:44 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:53:44 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 22:54:20 ] > Student connected to Employee
+[ 2017/04/25 22:57:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 22:57:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 23:02:31 ] >  ARDS Student Client Started.
+[ 2017/04/25 23:02:31 ] > Chat message sent
+[ 2017/04/25 23:02:36 ] > Port: 2609 is live
+[ 2017/04/25 23:02:36 ] > Port: 2609 is live
+[ 2017/04/25 23:02:37 ] > Port: 2609 is live
+[ 2017/04/25 23:02:40 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 936
+[ 2017/04/25 23:02:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 23:02:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 23:02:41 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:02:41 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:02:41 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:03:08 ] > Student connected to Employee
+[ 2017/04/25 23:04:23 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 23:04:23 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 23:04:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:04:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:04:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/25 23:06:12 ] >  ARDS Student Client Started.
+[ 2017/04/25 23:06:13 ] > Chat message sent
+[ 2017/04/25 23:06:16 ] > Port: 4306 is live
+[ 2017/04/25 23:06:16 ] > Port: 4306 is live
+[ 2017/04/25 23:06:16 ] > Port: 4306 is live
+[ 2017/04/25 23:06:54 ] > Student connected to Employee
+[ 2017/04/25 23:12:53 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 945
+[ 2017/04/25 23:12:53 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/25 23:17:16 ] >  ARDS Student Client Started.
+[ 2017/04/25 23:17:17 ] > Chat message sent
+[ 2017/04/25 23:17:20 ] > Port: 2488 is live
+[ 2017/04/25 23:17:20 ] > Port: 2488 is live
+[ 2017/04/25 23:17:20 ] > Port: 2488 is live
+[ 2017/04/25 23:17:53 ] > Student connected to Employee
+[ 2017/04/26 07:36:53 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:37:56 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:37:57 ] > Chat message sent
+[ 2017/04/26 07:42:57 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:42:57 ] > Chat message sent
+[ 2017/04/26 07:45:50 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:45:50 ] > Chat message sent
+[ 2017/04/26 07:51:11 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:51:11 ] > Chat message sent
+[ 2017/04/26 07:54:25 ] >  ARDS Student Client Started.
+[ 2017/04/26 07:54:26 ] > Chat message sent
+[ 2017/04/26 08:00:50 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:00:50 ] > Chat message sent
+[ 2017/04/26 08:04:48 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:04:49 ] > Chat message sent
+[ 2017/04/26 08:22:07 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:22:08 ] > Chat message sent
+[ 2017/04/26 08:23:26 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:23:27 ] > Chat message sent
+[ 2017/04/26 08:25:13 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:25:13 ] > Chat message sent
+[ 2017/04/26 08:25:50 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:25:50 ] > Chat message sent
+[ 2017/04/26 08:26:46 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:26:46 ] > Chat message sent
+[ 2017/04/26 08:27:23 ] > Port: 2101 is live
+[ 2017/04/26 08:27:23 ] > Port: 2101 is live
+[ 2017/04/26 08:27:23 ] > Port: 2101 is live
+[ 2017/04/26 08:27:28 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 937
+[ 2017/04/26 08:27:28 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 08:27:28 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 08:30:03 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:30:03 ] > Chat message sent
+[ 2017/04/26 08:30:09 ] > Port: 3262 is live
+[ 2017/04/26 08:30:09 ] > Port: 3262 is live
+[ 2017/04/26 08:30:09 ] > Port: 3262 is live
+[ 2017/04/26 08:30:18 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 937
+[ 2017/04/26 08:30:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 08:30:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 08:31:27 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:31:27 ] > Chat message sent
+[ 2017/04/26 08:42:49 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:42:49 ] > Chat message sent
+[ 2017/04/26 08:45:09 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:45:09 ] > Chat message sent
+[ 2017/04/26 08:50:20 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:50:21 ] > Chat message sent
+[ 2017/04/26 08:54:06 ] >  ARDS Student Client Started.
+[ 2017/04/26 08:54:06 ] > Chat message sent
+[ 2017/04/26 09:00:02 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:00:03 ] > Chat message sent
+[ 2017/04/26 09:01:26 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:01:26 ] > Chat message sent
+[ 2017/04/26 09:01:59 ] > (IOException) : null null -> java.io.ObjectInputStream$BlockDataInputStream -> peekByte -> -1
+[ 2017/04/26 09:03:11 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:03:12 ] > Chat message sent
+[ 2017/04/26 09:03:50 ] > (IOException) : null null -> java.io.ObjectInputStream$BlockDataInputStream -> peekByte -> -1
+[ 2017/04/26 09:22:08 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:22:09 ] > Chat message sent
+[ 2017/04/26 09:22:23 ] > Port: 3728 is live
+[ 2017/04/26 09:22:23 ] > Port: 3728 is live
+[ 2017/04/26 09:22:23 ] > Port: 3728 is live
+[ 2017/04/26 09:22:27 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 937
+[ 2017/04/26 09:22:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:22:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:28:35 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:28:36 ] > Chat message sent
+[ 2017/04/26 09:28:42 ] > Port: 2313 is live
+[ 2017/04/26 09:28:42 ] > Port: 2313 is live
+[ 2017/04/26 09:28:42 ] > Port: 2313 is live
+[ 2017/04/26 09:29:24 ] > Student connected to Employee
+[ 2017/04/26 09:29:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:29:51 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:36:45 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:36:46 ] > Chat message sent
+[ 2017/04/26 09:36:52 ] > Port: 2589 is live
+[ 2017/04/26 09:36:52 ] > Port: 2589 is live
+[ 2017/04/26 09:36:52 ] > Port: 2589 is live
+[ 2017/04/26 09:37:32 ] > (IOException) : models.StudOnServer; local class incompatible: stream classdesc serialVersionUID = 1, local class serialVersionUID = 410849909294832889 null -> java.io.ObjectStreamClass -> initNonProxy -> -1
+[ 2017/04/26 09:39:16 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:39:17 ] > Chat message sent
+[ 2017/04/26 09:39:51 ] > Port: 4306 is live
+[ 2017/04/26 09:39:51 ] > Port: 4306 is live
+[ 2017/04/26 09:39:51 ] > Port: 4306 is live
+[ 2017/04/26 09:39:58 ] > (IOException) : models.StudOnServer; local class incompatible: stream classdesc serialVersionUID = 1, local class serialVersionUID = 410849909294832889 null -> java.io.ObjectStreamClass -> initNonProxy -> -1
+[ 2017/04/26 09:40:18 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 938
+[ 2017/04/26 09:40:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:40:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:45:35 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:45:35 ] > Chat message sent
+[ 2017/04/26 09:46:03 ] > Port: 2897 is live
+[ 2017/04/26 09:46:03 ] > Port: 2897 is live
+[ 2017/04/26 09:46:03 ] > Port: 2897 is live
+[ 2017/04/26 09:47:48 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 938
+[ 2017/04/26 09:47:48 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:47:48 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:49:44 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:49:45 ] > Chat message sent
+[ 2017/04/26 09:49:50 ] > Port: 4132 is live
+[ 2017/04/26 09:49:50 ] > Port: 4132 is live
+[ 2017/04/26 09:49:50 ] > Port: 4132 is live
+[ 2017/04/26 09:50:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:50:28 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:50:28 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:52:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:52:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:52:40 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:52:40 ] > Chat message sent
+[ 2017/04/26 09:52:55 ] > Port: 3711 is live
+[ 2017/04/26 09:52:55 ] > Port: 3711 is live
+[ 2017/04/26 09:52:55 ] > Port: 3711 is live
+[ 2017/04/26 09:53:29 ] > Student connected to Employee
+[ 2017/04/26 09:55:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:55:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:55:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:55:18 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:55:18 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:56:23 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:56:24 ] > Chat message sent
+[ 2017/04/26 09:56:42 ] > Port: 2927 is live
+[ 2017/04/26 09:56:42 ] > Port: 2927 is live
+[ 2017/04/26 09:56:42 ] > Port: 2927 is live
+[ 2017/04/26 09:56:47 ] > Student connected to Employee
+[ 2017/04/26 09:58:02 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 09:58:02 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:58:02 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:58:02 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 09:58:02 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 09:58:34 ] >  ARDS Student Client Started.
+[ 2017/04/26 09:58:35 ] > Chat message sent
+[ 2017/04/26 09:58:55 ] > Port: 4460 is live
+[ 2017/04/26 09:58:55 ] > Port: 4460 is live
+[ 2017/04/26 09:58:55 ] > Port: 4460 is live
+[ 2017/04/26 09:59:01 ] > Student connected to Employee
+[ 2017/04/26 10:00:57 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 10:00:57 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:00:57 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 10:00:57 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:00:57 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:01:26 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:01:27 ] > Chat message sent
+[ 2017/04/26 10:01:51 ] > Port: 2269 is live
+[ 2017/04/26 10:01:51 ] > Port: 2269 is live
+[ 2017/04/26 10:01:51 ] > Port: 2269 is live
+[ 2017/04/26 10:01:58 ] > Student connected to Employee
+[ 2017/04/26 10:01:58 ] > New Student has messaged Employee
+[ 2017/04/26 10:02:09 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:02:09 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:02:09 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:02:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 10:02:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 10:04:19 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:04:20 ] > Chat message sent
+[ 2017/04/26 10:04:27 ] > Port: 4711 is live
+[ 2017/04/26 10:04:27 ] > Port: 4711 is live
+[ 2017/04/26 10:04:27 ] > Port: 4711 is live
+[ 2017/04/26 10:04:35 ] > Student connected to Employee
+[ 2017/04/26 10:04:35 ] > New Student has messaged Employee
+[ 2017/04/26 10:04:38 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:04:38 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:04:38 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:07:34 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 10:07:34 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 10:08:30 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:08:30 ] > Chat message sent
+[ 2017/04/26 10:08:35 ] > Port: 4213 is live
+[ 2017/04/26 10:08:35 ] > Port: 4213 is live
+[ 2017/04/26 10:08:35 ] > Port: 4213 is live
+[ 2017/04/26 10:09:01 ] > New Student has messaged Employee
+[ 2017/04/26 10:09:01 ] > Student connected to Employee
+[ 2017/04/26 10:09:04 ] > Chat message received
+[ 2017/04/26 10:09:31 ] > Chat message sent
+[ 2017/04/26 10:13:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 946
+[ 2017/04/26 10:13:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:13:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:13:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 955
+[ 2017/04/26 10:13:27 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:25:40 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:25:46 ] > Port: 2411 is live
+[ 2017/04/26 10:25:46 ] > Port: 2411 is live
+[ 2017/04/26 10:25:46 ] > Port: 2411 is live
+[ 2017/04/26 10:26:14 ] > Student connected to Employee
+[ 2017/04/26 10:26:14 ] > New Student has messaged Employee
+[ 2017/04/26 10:26:18 ] > Chat message received
+[ 2017/04/26 10:26:31 ] > Chat message sent
+[ 2017/04/26 10:26:40 ] > Chat message received
+[ 2017/04/26 10:26:56 ] > Chat message sent
+[ 2017/04/26 10:27:11 ] > Chat message received
+[ 2017/04/26 10:27:19 ] > Chat message received
+[ 2017/04/26 10:27:27 ] > Chat message sent
+[ 2017/04/26 10:27:29 ] > Chat message sent
+[ 2017/04/26 10:27:34 ] > Chat message received
+[ 2017/04/26 10:27:45 ] > Chat message sent
+[ 2017/04/26 10:27:46 ] > Chat message sent
+[ 2017/04/26 10:27:49 ] > Chat message sent
+[ 2017/04/26 10:28:02 ] > Chat message received
+[ 2017/04/26 10:28:08 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 948
+[ 2017/04/26 10:28:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:28:09 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:28:09 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:28:09 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:31:08 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:31:19 ] > Port: 4946 is live
+[ 2017/04/26 10:31:19 ] > Port: 4946 is live
+[ 2017/04/26 10:31:19 ] > Port: 4946 is live
+[ 2017/04/26 10:32:16 ] > New Student has messaged Employee
+[ 2017/04/26 10:32:16 ] > Student connected to Employee
+[ 2017/04/26 10:32:21 ] > Chat message received
+[ 2017/04/26 10:32:26 ] > Chat message received
+[ 2017/04/26 10:32:34 ] > Chat message sent
+[ 2017/04/26 10:32:35 ] > Chat message sent
+[ 2017/04/26 10:32:37 ] > Chat message sent
+[ 2017/04/26 10:32:42 ] > Chat message received
+[ 2017/04/26 10:32:46 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 948
+[ 2017/04/26 10:32:46 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:32:46 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:32:46 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:32:46 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:35:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:35:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:35:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:35:30 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 948
+[ 2017/04/26 10:35:30 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:37:17 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:37:23 ] > Port: 2912 is live
+[ 2017/04/26 10:37:23 ] > Port: 2912 is live
+[ 2017/04/26 10:37:23 ] > Port: 2912 is live
+[ 2017/04/26 10:37:24 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 944
+[ 2017/04/26 10:37:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/26 10:37:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 962
+[ 2017/04/26 10:37:33 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:37:33 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:37:33 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:38:30 ] > Student connected to Employee
+[ 2017/04/26 10:38:30 ] > New Student has messaged Employee
+[ 2017/04/26 10:38:32 ] > Chat message received
+[ 2017/04/26 10:38:36 ] > Chat message received
+[ 2017/04/26 10:38:43 ] > Chat message received
+[ 2017/04/26 10:38:51 ] > Chat message sent
+[ 2017/04/26 10:38:57 ] > Chat message sent
+[ 2017/04/26 10:38:59 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/26 10:38:59 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:38:59 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 962
+[ 2017/04/26 10:38:59 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:38:59 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:40:30 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:40:30 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:40:30 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:40:31 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/26 10:40:31 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 962
+[ 2017/04/26 10:42:14 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:42:20 ] > Port: 3501 is live
+[ 2017/04/26 10:42:20 ] > Port: 3501 is live
+[ 2017/04/26 10:42:20 ] > Port: 3501 is live
+[ 2017/04/26 10:42:27 ] > Student connected to Employee
+[ 2017/04/26 10:42:27 ] > New Student has messaged Employee
+[ 2017/04/26 10:42:30 ] > Chat message received
+[ 2017/04/26 10:42:31 ] > Chat message received
+[ 2017/04/26 10:42:32 ] > Chat message received
+[ 2017/04/26 10:42:32 ] > Chat message received
+[ 2017/04/26 10:42:33 ] > Chat message received
+[ 2017/04/26 10:42:40 ] > Chat message sent
+[ 2017/04/26 10:42:41 ] > Chat message sent
+[ 2017/04/26 10:42:42 ] > Chat message sent
+[ 2017/04/26 10:42:43 ] > Chat message sent
+[ 2017/04/26 10:42:45 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 954
+[ 2017/04/26 10:42:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:42:45 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 963
+[ 2017/04/26 10:42:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:42:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:45:53 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:45:59 ] > Port: 4228 is live
+[ 2017/04/26 10:45:59 ] > Port: 4228 is live
+[ 2017/04/26 10:45:59 ] > Port: 4228 is live
+[ 2017/04/26 10:46:10 ] > Student connected to Employee
+[ 2017/04/26 10:46:10 ] > New Student has messaged Employee
+[ 2017/04/26 10:46:19 ] > Chat message received
+[ 2017/04/26 10:46:20 ] > Chat message received
+[ 2017/04/26 10:46:20 ] > Chat message received
+[ 2017/04/26 10:46:21 ] > Chat message received
+[ 2017/04/26 10:46:21 ] > Chat message received
+[ 2017/04/26 10:46:21 ] > Chat message received
+[ 2017/04/26 10:46:22 ] > Chat message received
+[ 2017/04/26 10:46:29 ] > Chat message sent
+[ 2017/04/26 10:46:33 ] > Chat message sent
+[ 2017/04/26 10:46:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:46:40 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:46:40 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 966
+[ 2017/04/26 10:46:40 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:46:40 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:48:24 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:48:49 ] > Port: 2023 is live
+[ 2017/04/26 10:48:52 ] > Port: 2023 is live
+[ 2017/04/26 10:48:52 ] > Port: 2023 is live
+[ 2017/04/26 10:48:56 ] > Student connected to Employee
+[ 2017/04/26 10:48:56 ] > New Student has messaged Employee
+[ 2017/04/26 10:49:00 ] > Chat message received
+[ 2017/04/26 10:49:02 ] > Chat message received
+[ 2017/04/26 10:49:03 ] > Chat message received
+[ 2017/04/26 10:49:03 ] > Chat message received
+[ 2017/04/26 10:49:10 ] > Chat message sent
+[ 2017/04/26 10:49:11 ] > Chat message sent
+[ 2017/04/26 10:49:11 ] > Chat message sent
+[ 2017/04/26 10:49:12 ] > Chat message sent
+[ 2017/04/26 10:49:14 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:49:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:49:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:49:14 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 966
+[ 2017/04/26 10:49:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:50:59 ] >  ARDS Student Client Started.
+[ 2017/04/26 10:51:07 ] > Port: 4635 is live
+[ 2017/04/26 10:51:07 ] > Port: 4635 is live
+[ 2017/04/26 10:51:07 ] > Port: 4635 is live
+[ 2017/04/26 10:51:17 ] > Student connected to Employee
+[ 2017/04/26 10:51:17 ] > New Student has messaged Employee
+[ 2017/04/26 10:51:18 ] > Chat message received
+[ 2017/04/26 10:51:19 ] > Chat message received
+[ 2017/04/26 10:51:24 ] > Chat message sent
+[ 2017/04/26 10:51:24 ] > Chat message sent
+[ 2017/04/26 10:51:25 ] > Chat message sent
+[ 2017/04/26 10:51:28 ] > Chat message sent
+[ 2017/04/26 10:51:29 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 10:51:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:51:29 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 966
+[ 2017/04/26 10:51:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:51:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 10:52:59 ] >  ARDS Student Client Started.
+[ 2017/04/26 11:21:50 ] >  ARDS Student Client Started.
+[ 2017/04/26 11:21:57 ] > Port: 3007 is live
+[ 2017/04/26 11:21:57 ] > Port: 3007 is live
+[ 2017/04/26 11:21:57 ] > Port: 3007 is live
+[ 2017/04/26 11:22:29 ] > Student connected to Employee
+[ 2017/04/26 11:22:29 ] > New Student has messaged Employee
+[ 2017/04/26 11:22:33 ] > Chat message received
+[ 2017/04/26 11:22:33 ] > Chat message received
+[ 2017/04/26 11:22:34 ] > Chat message received
+[ 2017/04/26 11:22:39 ] > Chat message sent
+[ 2017/04/26 11:22:40 ] > Chat message sent
+[ 2017/04/26 11:22:40 ] > Chat message sent
+[ 2017/04/26 11:22:42 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 11:22:42 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:22:42 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 966
+[ 2017/04/26 11:22:42 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:22:42 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:26:32 ] >  ARDS Student Client Started.
+[ 2017/04/26 11:26:42 ] > Port: 2003 is live
+[ 2017/04/26 11:26:42 ] > Port: 2003 is live
+[ 2017/04/26 11:26:42 ] > Port: 2003 is live
+[ 2017/04/26 11:26:51 ] > Student connected to Employee
+[ 2017/04/26 11:26:51 ] > New Student has messaged Employee
+[ 2017/04/26 11:26:57 ] > Chat message received
+[ 2017/04/26 11:26:58 ] > Chat message received
+[ 2017/04/26 11:26:58 ] > Chat message received
+[ 2017/04/26 11:26:59 ] > Chat message received
+[ 2017/04/26 11:27:04 ] > Chat message sent
+[ 2017/04/26 11:27:05 ] > Chat message sent
+[ 2017/04/26 11:27:05 ] > Chat message sent
+[ 2017/04/26 11:27:06 ] > Chat message sent
+[ 2017/04/26 11:27:08 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 957
+[ 2017/04/26 11:27:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:27:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:27:08 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 966
+[ 2017/04/26 11:27:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:30:39 ] >  ARDS Student Client Started.
+[ 2017/04/26 11:30:44 ] > Port: 3583 is live
+[ 2017/04/26 11:30:44 ] > Port: 3583 is live
+[ 2017/04/26 11:30:44 ] > Port: 3583 is live
+[ 2017/04/26 11:30:51 ] > Student connected to Employee
+[ 2017/04/26 11:30:51 ] > New Student has messaged Employee
+[ 2017/04/26 11:30:53 ] > Chat message received
+[ 2017/04/26 11:30:54 ] > Chat message received
+[ 2017/04/26 11:30:54 ] > Chat message received
+[ 2017/04/26 11:30:55 ] > Chat message received
+[ 2017/04/26 11:31:00 ] > Chat message sent
+[ 2017/04/26 11:31:01 ] > Chat message sent
+[ 2017/04/26 11:31:01 ] > Chat message sent
+[ 2017/04/26 11:31:03 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 960
+[ 2017/04/26 11:31:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:31:03 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 969
+[ 2017/04/26 11:31:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:31:03 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 11:35:59 ] >  ARDS Student Client Started.
+[ 2017/04/26 11:47:42 ] >  ARDS Student Client Started.
+[ 2017/04/26 13:04:16 ] >  ARDS Student Client Started.
+[ 2017/04/26 13:04:50 ] > Port: 3638 is live
+[ 2017/04/26 13:04:50 ] > Port: 3638 is live
+[ 2017/04/26 13:04:50 ] > Port: 3638 is live
+[ 2017/04/26 13:08:19 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 949
+[ 2017/04/26 13:08:19 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 958
+[ 2017/04/26 13:08:19 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 967
+[ 2017/04/26 13:10:51 ] >  ARDS Student Client Started.
+[ 2017/04/26 13:10:58 ] > Port: 3546 is live
+[ 2017/04/26 13:10:59 ] > Port: 3546 is live
+[ 2017/04/26 13:10:59 ] > Port: 3546 is live
+[ 2017/04/26 13:17:50 ] > Student connected to Employee
+[ 2017/04/26 13:17:50 ] > New Student has messaged Employee
+[ 2017/04/26 13:17:53 ] > Chat message received
+[ 2017/04/26 13:17:55 ] > Chat message received
+[ 2017/04/26 13:18:00 ] > Chat message sent
+[ 2017/04/26 13:18:05 ] > Chat message sent
+[ 2017/04/26 14:04:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 14:04:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 14:04:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/26 14:04:42 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/26 14:04:42 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/26 15:48:42 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:51:00 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:52:40 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:55:36 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:56:47 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:57:53 ] >  ARDS Employee Client Started.
+[ 2017/04/26 15:59:20 ] >  ARDS Employee Client Started.
+[ 2017/04/26 16:00:10 ] >  ARDS Employee Client Started.
+[ 2017/04/26 17:16:10 ] >  ARDS Employee Client Started.
+[ 2017/04/26 19:56:28 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:10:03 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:10:16 ] > Port: 4361 is live
+[ 2017/04/27 00:10:16 ] > Port: 4361 is live
+[ 2017/04/27 00:10:16 ] > Port: 4361 is live
+[ 2017/04/27 00:13:36 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:14:12 ] > Port: 4098 is live
+[ 2017/04/27 00:14:12 ] > Port: 4098 is live
+[ 2017/04/27 00:14:12 ] > Port: 4098 is live
+[ 2017/04/27 00:14:20 ] > Student connected to Employee
+[ 2017/04/27 00:14:20 ] > New Student has messaged Employee
+[ 2017/04/27 00:14:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:14:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:14:20 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:15:07 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 00:15:08 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 00:15:43 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:16:06 ] > Port: 4450 is live
+[ 2017/04/27 00:16:06 ] > Port: 4450 is live
+[ 2017/04/27 00:16:06 ] > Port: 4450 is live
+[ 2017/04/27 00:16:14 ] > New Student has messaged Employee
+[ 2017/04/27 00:16:14 ] > Student connected to Employee
+[ 2017/04/27 00:16:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:16:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:16:14 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:16:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 00:16:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 00:23:15 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:23:25 ] > Port: 2524 is live
+[ 2017/04/27 00:23:25 ] > Port: 2524 is live
+[ 2017/04/27 00:23:25 ] > Port: 2524 is live
+[ 2017/04/27 00:23:53 ] > Student connected to Employee
+[ 2017/04/27 00:23:53 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:23:53 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:23:53 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:24:25 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 00:24:25 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 00:24:25 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 00:25:02 ] >  ARDS Employee Client Started.
+[ 2017/04/27 00:25:22 ] > Port: 4986 is live
+[ 2017/04/27 00:25:22 ] > Port: 4986 is live
+[ 2017/04/27 00:25:22 ] > Port: 4986 is live
+[ 2017/04/27 00:25:27 ] > Student connected to Employee
+[ 2017/04/27 00:25:28 ] > New Student has messaged Employee
+[ 2017/04/27 00:25:28 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:25:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 00:25:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:44:46 ] >  ARDS Employee Client Started.
+[ 2017/04/27 07:45:04 ] > Port: 2346 is live
+[ 2017/04/27 07:45:05 ] > Port: 2346 is live
+[ 2017/04/27 07:45:05 ] > Port: 2346 is live
+[ 2017/04/27 07:45:58 ] > Student connected to Employee
+[ 2017/04/27 07:46:00 ] > New Student has messaged Employee
+[ 2017/04/27 07:46:00 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:46:00 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:46:00 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:46:15 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 07:46:15 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 07:46:16 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 07:47:50 ] >  ARDS Employee Client Started.
+[ 2017/04/27 07:48:00 ] > Port: 3142 is live
+[ 2017/04/27 07:48:00 ] > Port: 3142 is live
+[ 2017/04/27 07:48:00 ] > Port: 3142 is live
+[ 2017/04/27 07:48:10 ] > Student connected to Employee
+[ 2017/04/27 07:48:13 ] > New Student has messaged Employee
+[ 2017/04/27 07:48:13 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:48:13 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:48:13 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/27 07:48:36 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 07:48:36 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 07:48:36 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 07:52:40 ] >  ARDS Employee Client Started.
+[ 2017/04/27 07:52:59 ] > Port: 4191 is live
+[ 2017/04/27 07:52:59 ] > Port: 4191 is live
+[ 2017/04/27 07:52:59 ] > Port: 4191 is live
+[ 2017/04/27 07:53:08 ] > Student connected to Employee
+[ 2017/04/27 07:54:29 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 07:54:29 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 07:54:30 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 07:56:43 ] >  ARDS Employee Client Started.
+[ 2017/04/27 07:57:05 ] > Port: 4435 is live
+[ 2017/04/27 07:57:06 ] > Port: 4435 is live
+[ 2017/04/27 07:57:06 ] > Port: 4435 is live
+[ 2017/04/27 07:57:11 ] > Student connected to Employee
+[ 2017/04/27 08:01:29 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:01:29 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:01:29 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:01:42 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:01:55 ] > Port: 4393 is live
+[ 2017/04/27 08:01:55 ] > Port: 4393 is live
+[ 2017/04/27 08:01:55 ] > Port: 4393 is live
+[ 2017/04/27 08:02:00 ] > Student connected to Employee
+[ 2017/04/27 08:02:53 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:02:53 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:02:53 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:03:48 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:03:56 ] > Port: 4539 is live
+[ 2017/04/27 08:03:56 ] > Port: 4539 is live
+[ 2017/04/27 08:03:56 ] > Port: 4539 is live
+[ 2017/04/27 08:04:05 ] > Student connected to Employee
+[ 2017/04/27 08:04:24 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:04:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:04:24 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:06:32 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:06:39 ] > Port: 2095 is live
+[ 2017/04/27 08:06:39 ] > Port: 2095 is live
+[ 2017/04/27 08:06:39 ] > Port: 2095 is live
+[ 2017/04/27 08:07:16 ] > Student connected to Employee
+[ 2017/04/27 08:07:27 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:07:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:07:27 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:08:56 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:09:05 ] > Port: 4680 is live
+[ 2017/04/27 08:09:05 ] > Port: 4680 is live
+[ 2017/04/27 08:09:05 ] > Port: 4680 is live
+[ 2017/04/27 08:09:27 ] > Student connected to Employee
+[ 2017/04/27 08:10:50 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:10:50 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:10:50 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:10:55 ] > New Student has messaged Employee
+[ 2017/04/27 08:12:44 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:12:52 ] > Port: 3788 is live
+[ 2017/04/27 08:12:52 ] > Port: 3788 is live
+[ 2017/04/27 08:12:52 ] > Port: 3788 is live
+[ 2017/04/27 08:12:59 ] > Student connected to Employee
+[ 2017/04/27 08:13:52 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:13:52 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:13:52 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:13:55 ] > New Student has messaged Employee
+[ 2017/04/27 08:14:51 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:15:10 ] > Port: 3079 is live
+[ 2017/04/27 08:15:10 ] > Port: 3079 is live
+[ 2017/04/27 08:15:10 ] > Port: 3079 is live
+[ 2017/04/27 08:15:26 ] > Student connected to Employee
+[ 2017/04/27 08:16:28 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 953
+[ 2017/04/27 08:16:28 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 961
+[ 2017/04/27 08:16:28 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 970
+[ 2017/04/27 08:16:30 ] > New Student has messaged Employee
+[ 2017/04/27 08:17:05 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:17:12 ] > Port: 4036 is live
+[ 2017/04/27 08:17:12 ] > Port: 4036 is live
+[ 2017/04/27 08:17:12 ] > Port: 4036 is live
+[ 2017/04/27 08:17:18 ] > Student connected to Employee
+[ 2017/04/27 08:17:20 ] > New Student has messaged Employee
+[ 2017/04/27 08:17:54 ] > Chat message sent
+[ 2017/04/27 08:17:55 ] > Chat message sent
+[ 2017/04/27 08:23:03 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:23:18 ] > Port: 2525 is live
+[ 2017/04/27 08:23:18 ] > Port: 2525 is live
+[ 2017/04/27 08:23:18 ] > Port: 2525 is live
+[ 2017/04/27 08:23:58 ] > Student connected to Employee
+[ 2017/04/27 08:24:01 ] > New Student has messaged Employee
+[ 2017/04/27 08:24:11 ] > Chat message sent
+[ 2017/04/27 08:24:22 ] > Chat message received
+[ 2017/04/27 08:26:08 ] > Chat message received
+[ 2017/04/27 08:26:18 ] > Chat message sent
+[ 2017/04/27 08:26:20 ] > Chat message sent
+[ 2017/04/27 08:26:27 ] > Chat message sent
+[ 2017/04/27 08:26:35 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 942
+[ 2017/04/27 08:26:35 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 950
+[ 2017/04/27 08:26:35 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 959
+[ 2017/04/27 08:29:00 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:29:08 ] > Port: 2410 is live
+[ 2017/04/27 08:29:08 ] > Port: 2410 is live
+[ 2017/04/27 08:29:08 ] > Port: 2410 is live
+[ 2017/04/27 08:29:33 ] > Student connected to Employee
+[ 2017/04/27 08:29:36 ] > New Student has messaged Employee
+[ 2017/04/27 08:30:45 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/27 08:30:45 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/27 08:30:45 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/27 08:32:03 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:32:10 ] > Port: 3404 is live
+[ 2017/04/27 08:32:10 ] > Port: 3404 is live
+[ 2017/04/27 08:32:10 ] > Port: 3404 is live
+[ 2017/04/27 08:32:42 ] > Student connected to Employee
+[ 2017/04/27 08:32:44 ] > New Student has messaged Employee
+[ 2017/04/27 08:32:47 ] > Chat message received
+[ 2017/04/27 08:37:37 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/27 08:37:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/27 08:37:37 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/27 08:38:24 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:39:01 ] > Student connected to Employee
+[ 2017/04/27 08:40:49 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:41:08 ] > Student connected to Employee
+[ 2017/04/27 08:42:31 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:45:27 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:48:56 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:49:12 ] > Port: 2023 is live
+[ 2017/04/27 08:49:12 ] > Port: 2023 is live
+[ 2017/04/27 08:49:12 ] > Port: 2023 is live
+[ 2017/04/27 08:49:39 ] > Student connected to Employee
+[ 2017/04/27 08:49:41 ] > New Student has messaged Employee
+[ 2017/04/27 08:49:49 ] > Chat message received
+[ 2017/04/27 08:50:54 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/27 08:50:54 ] > Student connected to Employee
+[ 2017/04/27 08:50:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/27 08:50:54 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/27 08:50:57 ] > New Student has messaged Employee
+[ 2017/04/27 08:51:59 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:52:06 ] > Port: 3112 is live
+[ 2017/04/27 08:52:06 ] > Port: 3112 is live
+[ 2017/04/27 08:52:06 ] > Port: 3112 is live
+[ 2017/04/27 08:52:35 ] > Student connected to Employee
+[ 2017/04/27 08:52:37 ] > New Student has messaged Employee
+[ 2017/04/27 08:52:57 ] > Chat message received
+[ 2017/04/27 08:53:59 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/27 08:53:59 ] > Student connected to Employee
+[ 2017/04/27 08:53:59 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/27 08:53:59 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/27 08:54:01 ] > New Student has messaged Employee
+[ 2017/04/27 08:55:24 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:55:31 ] > Port: 4745 is live
+[ 2017/04/27 08:55:31 ] > Port: 4745 is live
+[ 2017/04/27 08:55:31 ] > Port: 4745 is live
+[ 2017/04/27 08:55:57 ] > Student connected to Employee
+[ 2017/04/27 08:56:00 ] > New Student has messaged Employee
+[ 2017/04/27 08:56:10 ] > Chat message received
+[ 2017/04/27 08:57:32 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/27 08:57:32 ] > Student connected to Employee
+[ 2017/04/27 08:57:32 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/27 08:57:32 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/27 08:57:34 ] > New Student has messaged Employee
+[ 2017/04/27 08:57:40 ] > Chat message sent
+[ 2017/04/27 08:58:46 ] >  ARDS Employee Client Started.
+[ 2017/04/27 08:58:53 ] > Port: 4730 is live
+[ 2017/04/27 08:58:53 ] > Port: 4730 is live
+[ 2017/04/27 08:58:53 ] > Port: 4730 is live
+[ 2017/04/27 09:00:00 ] > Student connected to Employee
+[ 2017/04/27 09:00:02 ] > New Student has messaged Employee
+[ 2017/04/28 08:07:27 ] >  ARDS Employee Client Started.
+[ 2017/04/28 08:07:38 ] > Port: 2884 is live
+[ 2017/04/28 08:07:38 ] > Port: 2884 is live
+[ 2017/04/28 08:07:38 ] > Port: 2884 is live
+[ 2017/04/28 08:08:13 ] > Student connected to Employee
+[ 2017/04/28 08:08:15 ] > New Student has messaged Employee
+[ 2017/04/28 08:08:19 ] > Chat message received
+[ 2017/04/28 08:09:05 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/28 08:09:05 ] > Student connected to Employee
+[ 2017/04/28 08:09:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/28 08:09:05 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/28 08:09:07 ] > New Student has messaged Employee
+[ 2017/04/28 08:09:13 ] > Chat message received
+[ 2017/04/28 08:09:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:29 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:36 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/28 08:09:36 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/28 08:09:36 ] > Student connected to Employee
+[ 2017/04/28 08:09:36 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/28 08:09:40 ] > New Student has messaged Employee
+[ 2017/04/28 08:09:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:45 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:47 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/28 08:09:47 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/28 08:09:47 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/28 08:09:52 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:52 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:52 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:09:56 ] > Student connected to Employee
+[ 2017/04/28 08:10:00 ] > New Student has messaged Employee
+[ 2017/04/28 08:10:03 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/28 08:10:03 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/28 08:10:03 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940
+[ 2017/04/28 08:10:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:10:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:10:08 ] > (IOException) : Address already in use: JVM_Bind null -> java.net.DualStackPlainSocketImpl -> bind0 -> -2
+[ 2017/04/28 08:10:13 ] > Student connected to Employee
+[ 2017/04/28 08:10:15 ] > New Student has messaged Employee
+[ 2017/04/28 08:10:24 ] > Chat message sent
+[ 2017/04/28 08:10:43 ] > Chat message received
+[ 2017/04/28 08:10:49 ] > (NullPointerException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 923
+[ 2017/04/28 08:10:49 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 931
+[ 2017/04/28 08:10:49 ] > (FileNotFoundException) : null DashBoard.java -> view.ChatPane -> CloseChatConnection -> 940

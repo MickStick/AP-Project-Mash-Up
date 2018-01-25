@@ -1,0 +1,117 @@
+
+#topPane{
+    -fz-scale-z:10;
+}
+#secPane{
+    -fx-background-color: #ffffff;
+    -fx-border-width: 0.50mm;
+    -fx-border-color: #000;
+}
+#topBtn{
+    -fx-background-color: none;
+    -fx-border-radius: 0;
+    -fx-pref-height: 18;
+}
+#topBtn:hover{
+   -fx-background-color: rgba(0,0,0,0.3);
+}
+#topBtn:pressed{
+    -fx-background-color: rgba(0,0,0,0.1);
+}
+
+#upscPane{
+    -fx-background-color: #fff;
+    -fx-border-width: 0.5mm 0mm 0mm 0mm;
+    -fx-border-color: #000;
+}
+#upPane{
+    -fx-background-color: #fff;
+    -fx-border-width: 0.5mm 0.5mm 0mm 0mm;
+    -fx-padding: 10mm 15mm;
+}
+
+#vqscPane{
+    -fx-background-color: #fff;
+    -fx-border-width: 0.5mm 0mm 0mm 0.5mm;
+    -fx-border-color: #000;
+}
+#vqPane{
+    -fx-background-color: #fff;
+    -fx-border-width: 0mm 0mm 0mm 1mm;
+    -fx-padding: 0px 0px 36px 0px;
+}
+.enqPane{
+    -fx-border-width: 0mm 0mm 0.35mm 0mm;
+    -fx-border-color: #000;
+    -fx-background-color: rgba(200,200,200,0.1);
+}
+.enqPane:hover{
+    -fx-background-color: rgba(200,200,200,0.5);
+}
+.enqPane:pressed{
+    -fx-background-color: rgba(200,200,200,0.2);
+}
+
+#upLabel{
+    -fx-font-size: 16px;
+    -fx-font-weight: 800;
+}
+#upTextField{
+    -fx-pref-width: 170;
+    -fx-font-weight: 800;
+}
+#upbtn{
+    -fx-pref-width: 80;
+    -fx-font-weight: 800;
+    -fx-translate-x: 89;
+    -fx-text-fill: #000;
+    -fx-background-color: #fff;
+    -fx-border-width: 2px;
+    -fx-border-color: #000;
+    -fx-border-radius: 2;
+}
+#upbtn:hover{
+    -fx-background-color: rgba(0,0,0,0.3);
+}
+#upbtn:pressed{
+    -fx-background-color: rgba(0,0,0,0.1);
+}
+
+#chatpane{
+    -fx-background-color: #fff;
+    overflow-y: hidden;
+    -fx-scale-z: -1;
+}
+#chat-sect-btn{
+    -fx-background-color: #ffff;
+    -fx-font-size: 16;
+    -fx-border-width: 0mm 0mm 0.5mm 0mm;
+    -fx-border-color: #000;
+    -fx-padding: 0;
+    -fx-text-align: left;
+}
+#chat-sect-btn:hover{
+    -fx-background-color: rgba(0,0,0,0.2);
+}
+#chat-sect-btn:pressed{
+    -fx-background-color: rgba(0,0,0,0.1);
+}
+
+#srchP{
+    -fx-background-color: #fff;
+    -fx-border-width: 0mm 0mm 0mm 0.5mm;
+    -fx-border-color: #fff;
+}
+#srchB,#srchF{
+    -fx-text-fill: #000;
+    -fx-background-color: #fff;
+    -fx-border-width: 2px;
+    -fx-border-color: #000;
+    -fx-border-radius: 2;
+}
+#srchB:hover,#srchF:hover{
+    -fx-background-color: rgba(0,0,0,0.3);
+}
+#srchB:pressed,#srch:pressed{
+    -fx-background-color: rgba(0,0,0,0.1);
+}

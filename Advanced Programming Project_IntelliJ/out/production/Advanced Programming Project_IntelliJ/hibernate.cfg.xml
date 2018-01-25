@@ -1,0 +1,15 @@
+<hibernate-configuration>
+<session-factory>
+<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+<!--  Assume test is the database name  -->
+<property name="hibernate.connection.url">jdbc:mysql://localhost/ARDS</property>
+<property name="hibernate.connection.username">root</property>
+<property name="hibernate.connection.password"/>
+<!--  List of XML mapping files  -->
+<mapping resource="mappings/student_password.hbm.xml"/>
+<mapping resource="mappings/employee_password.hbm.xml"/>
+<mapping resource="mappings/student.hbm.xml"/>
+<mapping resource="mappings/fee.hbm.xml"/>
+</session-factory>
+</hibernate-configuration>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.layout.TilePane?>
+
+<?import javafx.scene.shape.SVGPath?>
+<AnchorPane fx:id="rootPane" prefHeight="600" prefWidth="800" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MainView.AdminController">
+   <!-- <GridPane fx:id="TopPane" hgap="3" layoutX="0" layoutY="0" prefHeight="25" prefWidth="800" style="-fx-border-width: 0px 0px 1px 0px; -fx-border-color: rgba(0,0,0,1.0);">
+        <Button fx:id="file"  prefWidth="40" text="File" textAlignment="CENTER" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <Button fx:id="edit"  prefWidth="40" text="Edit" textAlignment="CENTER" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+        <Button fx:id="settings"  prefWidth="60" text="Settings" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+        <Button fx:id="help"  prefWidth="45" text="Help" textAlignment="CENTER" GridPane.columnIndex="3" GridPane.rowIndex="0" />
+
+
+    </GridPane>-->
+
+    <AnchorPane fx:id="secPane" layoutX="0" layoutY="0" prefHeight="540" prefWidth="800" style="">
+
+            <AnchorPane fx:id="searchPane" layoutX="2" layoutY="0" prefHeight="65" prefWidth="397" style="-fx-border-width: 0mm 0mm 0mm 0mm;">
+                <Label layoutX="5" layoutY="20" style="-fx-font-size: 18px; -fx-font-weight: 800" text="Student Info." />
+                <TextField fx:id="searchField" layoutX="123.5" layoutY="20" prefHeight="31" prefWidth="180" promptText="Search Student ID: " style="-fx-font-size: 13;" />
+                <Button fx:id="searchBtn" layoutX="303" layoutY="20" prefHeight="33" prefWidth="45" >
+                    <graphic>
+                        <SVGPath content="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+                    </graphic>
+                </Button>
+            </AnchorPane>
+            <ScrollPane fx:id="upScrollPane" hbarPolicy="NEVER" layoutX="1" layoutY="65" prefHeight="475" prefWidth="399" vbarPolicy="NEVER">
+                <GridPane fx:id="updatePane" alignment="TOP_LEFT" hgap="15" layoutX="0" layoutY="120" prefHeight="575" prefWidth="399" vgap="15">
+
+
+                </GridPane>
+            </ScrollPane>
+        <AnchorPane fx:id="EnsearchPane" layoutX="399" layoutY="0" prefHeight="65" prefWidth="401" style="-fx-border-width: 0mm 0mm 0mm 0.5mm;">
+            <Label layoutX="30" layoutY="20" style="-fx-font-size: 18px; -fx-font-weight: 800" text="Enquiries" />
+            <TextField fx:id="EnsearchField" layoutX="123.5" layoutY="20" prefHeight="31" prefWidth="180" promptText="Search Enquiry: " style="-fx-font-size: 13;" />
+            <Button fx:id="EnsearchBtn" layoutX="303" layoutY="20" prefHeight="33" prefWidth="45" >
+                <graphic>
+                    <SVGPath content="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+                </graphic>
+            </Button>
+        </AnchorPane>
+            <ScrollPane fx:id="vqScrollPane" hbarPolicy="NEVER" layoutX="399" layoutY="65" prefHeight="475" prefWidth="403" vbarPolicy="NEVER">
+                <VBox fx:id="viewQuery" layoutX="399" layoutY="60" prefWidth="401" spacing="0">
+                    <!-- prefHeight="575"
+                        <Pane prefWidth="401" prefHeight="55" style="-fx-border-width: 0mm 0mm 0.35mm 0mm; -fx-border-color: #000; -fx-background-color: rgba(200,200,200,0.1)">
+                        <Label text="SENDER" layoutX="5" layoutY="1" prefWidth="305"/>
+                        <Label text="Subject" layoutY="15" layoutX="5" prefWidth="160"/>
+                        <Label text="Message Containing the enquiry from the student to the employeee." layoutY="30" layoutX="5" prefWidth="305"/>
+                        <Label text="Date sent" prefWidth="80" layoutX="320" layoutY="15"/>
+                    </Pane>-->
+                </VBox>
+            </ScrollPane>
+
+           <!-- <VBox fx:id="chatPane" layoutX="575" layoutY="323" maxHeight="288" minHeight="28" prefHeight="288" prefWidth="200" style="-fx-border-color: #000; -fx-border-width: 0.3mm 0.3mm 0mm 0.3mm;">
+                <Button fx:id="chatBtn" prefWidth="200" text="Chat" />
+                <GridPane fx:id="chatGrid" prefHeight="278" prefWidth="200" vgap="5">
+                    <Label prefHeight="55.6" prefWidth="80" text="Test Text 1 of all the other texts" textOverrun="WORD_ELLIPSIS" wrapText="true" GridPane.rowIndex="0" />
+                    <Label prefHeight="50.6" text="Test Text 2" GridPane.rowIndex="1" />
+                    <Label prefHeight="50.6" text="Test Text 3" GridPane.rowIndex="2" />
+                    <Label prefHeight="50.6" text="Test Text 4" GridPane.rowIndex="3" />
+                    <Label prefHeight="50.6" text="Test Text 5" GridPane.rowIndex="4" />
+
+            </VBox>-->
+
+    </AnchorPane>
+
+</AnchorPane>
